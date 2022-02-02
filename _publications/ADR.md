@@ -1,5 +1,5 @@
 ---
-title: "4. Prediction of adverse drug reaction using machine learning and deep learning based on an imbalanced electronic medical records dataset"
+title: "#4 Prediction of adverse drug reaction using machine learning and deep learning based on an imbalanced electronic medical records dataset"
 collection: publications
 permalink: /publication/ADR
 excerpt: ''
