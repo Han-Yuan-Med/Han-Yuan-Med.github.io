@@ -60,6 +60,9 @@ Service and Leadership
 
 Honors and Awards
 ======
+* The Runner-up of the 7th Annual Duke-NUS Ph.D. Student Research Symposium, 2022
+  * Duke-NUS Medical School
+
 * Khoo Pre-Doctoral Fellowship, 2020 & 2021
   * Duke-NUS Medical School
 
