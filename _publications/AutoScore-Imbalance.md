@@ -5,7 +5,7 @@ permalink: /publication/AutoScore-Imbalance
 excerpt: ''
 date: 2022-04-11
 venue: 'Journal of Biomedical Informatics'
-paperurl: 'http://yuan-han-med.github.io/files/AutoScore-Imbalance.pdf'
+paperurl: 'http://han-yuan-med.github.io/files/AutoScore-Imbalance.pdf'
 ---
 Background
 Medical decision-making impacts both individual and public health. Clinical scores are commonly used among various decision-making models to determine the degree of disease deterioration at the bedside. AutoScore was proposed as a useful clinical score generator based on machine learning and a generalized linear model. However, its current framework still leaves room for improvement when addressing unbalanced data of rare events.
@@ -19,4 +19,4 @@ AutoScore-Imbalance outperformed baselines in terms of AUC and balanced accuracy
 Conclusions
 We have developed an interpretable tool to handle clinical data imbalance, presented its structure, and demonstrated its superiority over baselines. The AutoScore-Imbalance tool can be applied to highly unbalanced datasets to gain further insight into rare medical events and facilitate real-world clinical decision-making.
 
-[Download paper here](http://yuan-han-med.github.io/files/AutoScore-Imbalance.pdf)
+[Download paper here](http://han-yuan-med.github.io/files/AutoScore-Imbalance.pdf)
