@@ -24,10 +24,10 @@ I am always happy to try different milk tea brands and flavors. Whether looking 
 
 06/2021: One R package on [AutoScore](https://cran.r-project.org/web/packages/AutoScore/index.html) is released.
 
-05/2021: One J. Exp. Clin. Cancer Res. paper is accepted on [TRIM37 orchestrates renal cell carcinoma progression](https://link.springer.com/article/10.1186/s13046-021-01980-0).
+05/2021: One J. Exp. Clin. Cancer Res. paper is accepted on [renal cell carcinoma progression](https://link.springer.com/article/10.1186/s13046-021-01980-0).
 
-02/2021: One ICMHI paper is accepted on [prediction of adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817).
+02/2021: One ICMHI paper is accepted on [adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817).
 
-09/2020: One Front. Oncol. paper is accepted on [postoperative recovery and quality of life](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full).
+09/2020: One Front. Oncol. paper is accepted on [postoperative recovery](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full).
 
-06/2020: One IJB paper is accepted on [alternatives to the Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html).
+06/2020: One IJB paper is accepted on [Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html).
