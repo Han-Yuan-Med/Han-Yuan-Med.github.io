@@ -16,18 +16,18 @@ I am always happy to try different milk tea brands and flavors. Whether looking 
 
 ***News***
 
-04/2022: One JBI paper is accepted on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880).
+04/2022: One JBI paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) is accepted.
 
-12/2021: One JBI paper is accepted on [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099).
+12/2021: One JBI paper on [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) is accepted.
 
-12/2021: One JBI paper is accepted on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884).
+12/2021: One JBI paper on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884) is accepted.
 
 06/2021: One R package on [AutoScore](https://cran.r-project.org/web/packages/AutoScore/index.html) is released.
 
-05/2021: One J. Exp. Clin. Cancer Res. paper is accepted on [renal cell carcinoma progression](https://link.springer.com/article/10.1186/s13046-021-01980-0).
+05/2021: One J. Exp. Clin. Cancer Res. paper on [renal cell carcinoma progression](https://link.springer.com/article/10.1186/s13046-021-01980-0) is accepted.
 
-02/2021: One ICMHI paper is accepted on [adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817).
+02/2021: One ICMHI paper on [adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817) is accepted.
 
-09/2020: One Front. Oncol. paper is accepted on [postoperative recovery](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full).
+09/2020: One Front. Oncol. paper on [postoperative recovery](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full) is accepted.
 
-06/2020: One IJB paper is accepted on [Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html).
+06/2020: One IJB paper on [Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html) is accepted.
