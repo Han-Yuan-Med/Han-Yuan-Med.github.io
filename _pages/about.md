@@ -16,6 +16,8 @@ I am always happy to try different milk tea brands and flavors. Whether looking 
 
 **News**
 
+excerpt: "News"
+
 04/2022: One JBI paper is accepted on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880).
 
 12/2021: One JBI paper is accepted on [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099).
