@@ -14,9 +14,7 @@ My current research interests focus on [Explainable Artificial Intelligence (XAI
 
 I am always happy to try different milk tea brands and flavors. Whether looking for a research collaborator or milk tea partner, do not hesitate to contact me.
 
-**News**
-
-excerpt: "News"
+***News***
 
 04/2022: One JBI paper is accepted on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880).
 
