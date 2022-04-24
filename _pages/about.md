@@ -16,9 +16,11 @@ I am always happy to try different milk tea brands and flavors. Whether looking 
 
 ***News***
 
-04/2022: Our JBI paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) is accepted.
+04/2022: One empirical study on [SHapley Additive exPlanations]() is released.
 
-12/2021: Our JBI paper on [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) is accepted.
+04/2022: One JBI paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) is accepted.
+
+12/2021: One JBI paper on [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) is accepted.
 
 12/2021: Our JBI paper on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884) is accepted.
 
