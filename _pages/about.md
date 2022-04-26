@@ -16,7 +16,7 @@ I am always happy to try different milk tea brands and flavors. Whether looking 
 
 ***News***
 
-04/2022: One empirical study on [SHapley Additive exPlanations]() is released.
+04/2022: One empirical study on [SHapley Additive exPlanations](https://arxiv.org/abs/2204.11351) is released.
 
 04/2022: One JBI paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) is accepted.
 
