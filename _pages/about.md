@@ -12,7 +12,7 @@ Hi! I am Han, a Ph.D. student in Health Data Science at **Duke-NUS Medical Schoo
 
 My current research interests focus on [Explainable Artificial Intelligence (XAI)](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) and [Automated Machine Learning (AutoML)](https://en.wikipedia.org/wiki/Automated_machine_learning) in Healthcare. I am also widely interested in the frontiers of machine intelligence, especially advances in computer vision and natural language processing.
 
-I am always happy to try different milk tea brands and flavors. Whether looking for a research collaborator or milk tea partner, do not hesitate to [contact me](<a href="mailto:yuan.han@u.duke.nus.edu">Send me an email</a>).
+I am always happy to try different milk tea brands and flavors. Whether looking for a research collaborator or milk tea partner, do not hesitate to <a href="mailto:yuan.han@u.duke.nus.edu">contact me</a>.
 
 ***News***
 
