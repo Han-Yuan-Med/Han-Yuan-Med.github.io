@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Han, a Ph.D. student in Health Data Science at **Duke-NUS Medical School** (a collaboration between Duke University and the National University of Singapore). I received double B.S. degrees in Biology and Applied Mathematics (ranking: 1st/79) from **Nankai University**, where I participated in several projects about operations research, medical informatics, and evolutionary biology. Subsequently, I worked as a research scholar at **Harvard University** and **University of Zurich**, concentrating on epidemiology and medical informatics, respectively. My industry experiences include analytics internships at **Bank of China**, **Founder Securities**, **Brigham Health**, and **Universitätsspital Zürich**.
+Hi! I am Han, a Ph.D. student in Health Data Science at **Duke-NUS Medical School** (a collaboration between Duke University and the National University of Singapore). I received double B.S. degrees in Biology and Applied Mathematics (ranking: 1st/79) from **Nankai University**, where I participated in several projects about operations research, medical informatics, and evolutionary biology. Subsequently, I worked as a research scholar at **Harvard University** and **University of Zurich**, concentrating on epidemiology and medical informatics, respectively. My industry experiences include data analytics internships at **Bank of China**, **Founder Securities**, **Brigham Health**, and **Universitätsspital Zürich**.
 
 My current research interests focus on [Explainable Artificial Intelligence (XAI)](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) and [Automated Machine Learning (AutoML)](https://en.wikipedia.org/wiki/Automated_machine_learning) in Healthcare. I am also widely interested in the frontiers of machine intelligence, especially advances in computer vision and natural language processing.
 
-I am always happy to try different milk tea brands and flavors. Whether looking for a research collaborator or milk tea partner, do not hesitate to [contact me](yuan.han@u.duke.nus.edu).
+I am always happy to try different milk tea brands and flavors. Whether looking for a research collaborator or milk tea partner, do not hesitate to [contact me](<a href="mailto:yuan.han@u.duke.nus.edu">Send me an email</a>).
 
 ***News***
 
