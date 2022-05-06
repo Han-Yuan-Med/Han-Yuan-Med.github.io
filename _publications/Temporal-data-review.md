@@ -19,4 +19,4 @@ We included 98 articles related to temporal data representation using deep learn
 Conclusion
 Temporal EHR data present several major challenges for clinical prediction modeling and data utilization. To some extent, current deep learning solutions can address these challenges. Future studies may consider designing comprehensive and integrated solutions. Moreover, researchers should incorporate clinical domain knowledge into study designs and enhance model interpretability to facilitate clinical implementation.
 
-[Download paper here](http://han-yuan-med.github.io/files/Deep learning for temporal data representation in electronic health records A systematic review of challenges and methodologies.pdf)
+Download [here](http://han-yuan-med.github.io/files/Deep learning for temporal data representation in electronic health records A systematic review of challenges and methodologies.pdf)

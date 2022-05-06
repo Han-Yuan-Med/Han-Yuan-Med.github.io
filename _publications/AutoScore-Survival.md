@@ -19,4 +19,4 @@ The AutoScore-Survival-derived scoring system was more parsimonious than surviva
 Conclusions
 Our proposed AutoScore-Survival provides a robust and easy-to-use machine learning-based clinical score generator to studies of time-to-event outcomes. It gives a systematic guideline to facilitate the future development of time-to-event scores for clinical applications.
 
-[Download paper here](http://han-yuan-med.github.io/files/AutoScore-Survival Developing interpretable machine learning-based time-to-event scores with right-censored survival data.pdf)
+Download [here](http://han-yuan-med.github.io/files/AutoScore-Survival Developing interpretable machine learning-based time-to-event scores with right-censored survival data.pdf)

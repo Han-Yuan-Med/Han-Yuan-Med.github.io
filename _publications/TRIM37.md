@@ -19,4 +19,4 @@ We identified TRIM37 was upregulated in RCC tumors, and its aberrant function pr
 Conclusions
 Our findings identified a previously unappreciated role of TRIM37 in RCC progression and prognostic prediction. Importantly, we declared a novel ubiquitination-dependent link between TRIM ubiquitin ligases and TGF-β1 signaling in regulating cancerous malignancies.
 
-[Download paper here](http://han-yuan-med.github.io/files/TRIM37 orchestrates renal cell carcinoma progression via histone h2a ubiquitination-dependent manner.pdf)
+Download [here](http://han-yuan-med.github.io/files/TRIM37 orchestrates renal cell carcinoma progression via histone h2a ubiquitination-dependent manner.pdf)
