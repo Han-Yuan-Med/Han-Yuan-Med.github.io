@@ -15,6 +15,8 @@ I am always happy to try different milk tea brands and flavors. Whether looking 
 
 News
 =
+06/2022: A preprint on [the impact of data imbalance on SHapley Additive exPlanations](https://arxiv.org/abs/2206.04050) is released.
+
 04/2022: An empirical study on [SHapley Additive exPlanations](https://arxiv.org/abs/2204.11351) is released.
 
 04/2022: JBI paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) is accepted.
