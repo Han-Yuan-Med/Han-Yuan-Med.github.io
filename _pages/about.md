@@ -15,22 +15,20 @@ I am always happy to try different milk tea brands and flavors. Whether looking 
 
 News
 =
-06/2022: A preprint on [the impact of data imbalance on SHapley Additive exPlanations](https://arxiv.org/abs/2206.04050) is released.
+06/2022: A preprint on [SHapley Additive exPlanations](https://arxiv.org/abs/2206.04050) is released.
 
-04/2022: An empirical study on [SHapley Additive exPlanations](https://arxiv.org/abs/2204.11351) is released.
+04/2022: A preprint on [SHapley Additive exPlanations](https://arxiv.org/abs/2204.11351) is released.
 
-04/2022: JBI paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) is accepted.
+04/2022: A JBI paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) is accepted.
 
-12/2021: JBI paper on [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) is accepted.
+12/2021: Two JBI papers on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884) and [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) are accepted.
 
-12/2021: JBI paper on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884) is accepted.
+06/2021: The R package on [AutoScore](https://cran.r-project.org/web/packages/AutoScore/index.html) is released.
 
-06/2021: R package on [AutoScore](https://cran.r-project.org/web/packages/AutoScore/index.html) is released.
+05/2021: A J. Exp. Clin. Cancer Res. paper on [renal cell carcinoma progression](https://link.springer.com/article/10.1186/s13046-021-01980-0) is accepted.
 
-05/2021: J. Exp. Clin. Cancer Res. paper on [renal cell carcinoma progression](https://link.springer.com/article/10.1186/s13046-021-01980-0) is accepted.
+02/2021: An ACM ICMHI paper on [adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817) is accepted.
 
-02/2021: ACM ICMHI paper on [adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817) is accepted.
+09/2020: A Front. Oncol. paper on [postoperative recovery](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full) is accepted.
 
-09/2020: Front. Oncol. paper on [postoperative recovery](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full) is accepted.
-
-06/2020: IJB paper on [Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html) is accepted.
+06/2020: An IJB paper on [Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html) is accepted.
