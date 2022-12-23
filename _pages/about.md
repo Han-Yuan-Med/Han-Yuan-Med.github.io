@@ -11,11 +11,13 @@ Hi! I am Han. I received double B.S. degrees in Biology and Applied Mathematics 
 
 My current research interests focus on [Explainable Artificial Intelligence (XAI)](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) and [Automated Machine Learning (AutoML)](https://en.wikipedia.org/wiki/Automated_machine_learning) in Healthcare. I am also widely interested in the frontiers of machine intelligence, especially advances in computer vision and natural language processing.
 
-I am always happy to try different milk tea brands and flavors. Whether looking for a research collaborator or milk tea partner, do not hesitate to <a href="mailto:yuan.han@u.duke.nus.edu">contact me</a>.
+Also, the idea of travel, packing my bags, and disappearing to someplace new, lives inside my brain allllll the time. I explored nearly 20 countries (50 destinations) and was fascinated by the magical landforms like volcano that burns blue (Indonesia), glacier at the end of the earth (Iceland), saline pink lake (Australia), etc. Whether looking for a research collaborator or travel partner, do not hesitate to <a href="mailto:yuan.han@u.duke.nus.edu">contact me</a>.
 
 News
 =
 04/2022: A JBI paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) is accepted.
+
+01/2022: Han starts his internship at the University of Zurich!
 
 12/2021: Two JBI papers on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884) and [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) are accepted.
 
@@ -28,3 +30,7 @@ News
 09/2020: A Front. Oncol. paper on [postoperative recovery](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full) is accepted.
 
 06/2020: An IJB paper on [Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html) is accepted.
+
+07/2019: Han starts a consulting job at Harvard University!
+
+06/2019: Han graduates from Nankai University!
