@@ -11,7 +11,7 @@ Hi! I am Han. I received double B.S. degrees in Biology and Applied Mathematics 
 
 My current research interests focus on [Explainable Artificial Intelligence (XAI)](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) and [Automated Machine Learning (AutoML)](https://en.wikipedia.org/wiki/Automated_machine_learning) in Healthcare. I am also widely interested in the frontiers of machine intelligence, especially advances in computer vision and natural language processing.
 
-Also, the idea of travel, packing my bags, and disappearing to someplace new, lives inside my brain allllll the time. I explored nearly 20 countries (50 destinations) and was fascinated by the magical landforms like volcano that burns blue (Indonesia), glacier at the end of the earth (Iceland), saline pink lake (Australia), etc. Whether looking for a research collaborator or travel partner, do not hesitate to <a href="mailto:yuan.han@u.duke.nus.edu">contact me</a>.
+Also, the idea of travel, packing my bags, and disappearing to someplace new, lives inside my brain allllll the time. I explored 20+ countries and was fascinated by the magical landforms like [volcano that burns blue](/files/travel/), glacier at the end of the earth, [saline pink lake](/files/travel/pink_lake.jpg), black sand beach, aurora dancing across the skies, etc. Whether looking for a research collaborator or travel partner, do not hesitate to <a href="mailto:yuan.han@u.duke.nus.edu">contact me</a>.
 
 News
 =
