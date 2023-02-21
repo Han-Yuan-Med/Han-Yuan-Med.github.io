@@ -25,7 +25,7 @@ News
 
 05/2021: A J. Exp. Clin. Cancer Res. paper on [renal cell carcinoma progression](https://link.springer.com/article/10.1186/s13046-021-01980-0) is accepted.
 
-02/2021: An ACM ICMHI paper on [adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817) is accepted.
+02/2021: An ICMHI paper (Oral) on [adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817) is accepted.
 
 09/2020: A Front. Oncol. paper on [postoperative recovery](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full) is accepted.
 
