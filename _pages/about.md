@@ -19,7 +19,9 @@ News
 
 01/2022: Han started a research internship at the University of Zurich.
 
-12/2021: Two J. Biomed. Inform. papers on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884) and [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) were accepted.
+12/2021: A J. Biomed. Inform. paper on [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) was accepted.
+
+12/2021: A J. Biomed. Inform. paper on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884) was accepted.
 
 06/2021: [AutoScore R package](https://cran.r-project.org/web/packages/AutoScore/index.html) was officially released in CRAN.
 
