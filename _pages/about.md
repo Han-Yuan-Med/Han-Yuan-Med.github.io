@@ -35,6 +35,6 @@ News
 
 06/2020: An Int. J. Biostat. paper on [Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html) was accepted.
 
-07/2019: Han started a consulting job at Harvard University.
+07/2019: Han started a research internship at Harvard University.
 
 06/2019: Han graduated from Nankai University with distinction.
