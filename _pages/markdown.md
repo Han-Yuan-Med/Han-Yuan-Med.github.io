@@ -173,7 +173,7 @@ This tag styles large blocks of code.
 
 <pre>
 .post-title {
-  margin: 0 0 5px;
+  margin: 0 0 0px;
   font-weight: bold;
   font-size: 38px;
   line-height: 1.2;

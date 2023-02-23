@@ -15,24 +15,24 @@ Also, the idea of travel, packing my bags, and disappearing to someplace new, li
 
 News
 =
-04/2022: A J. Biomed. Inform. paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) is accepted.
+04/2022: A J. Biomed. Inform. paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) was accepted.
 
-01/2022: Han starts a research internship at the University of Zurich.
+01/2022: Han started a research internship at the University of Zurich.
 
-12/2021: Two J. Biomed. Inform. papers on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884) and [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) are accepted.
+12/2021: Two J. Biomed. Inform. papers on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884) and [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) were accepted.
 
-06/2021: The R package on [AutoScore](https://cran.r-project.org/web/packages/AutoScore/index.html) is released.
+06/2021: [AutoScore R package](https://cran.r-project.org/web/packages/AutoScore/index.html) was officially released in CRAN.
 
-05/2021: A J. Exp. Clin. Cancer Res. paper on [renal cell carcinoma progression](https://link.springer.com/article/10.1186/s13046-021-01980-0) is accepted.
+05/2021: A J. Exp. Clin. Cancer Res. paper on [renal cell carcinoma progression](https://link.springer.com/article/10.1186/s13046-021-01980-0) was accepted.
 
-02/2021: An ICMHI paper on [adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817) is accepted (Oral presentation).
+02/2021: Han made an oral presentation on [adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817) at the International Conference on Medical and Health Informatics.
 
-09/2020: A Front. Oncol. paper on [postoperative recovery](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full) is accepted.
+09/2020: A Front. Oncol. paper on [postoperative recovery](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full) was accepted.
 
-08/2020: Han starts Ph.D. study at Duke-NUS Medical School.
+08/2020: Han started his Ph.D. study at Duke-NUS Medical School.
 
-06/2020: An Int. J. Biostat. paper on [Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html) is accepted.
+06/2020: An Int. J. Biostat. paper on [Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html) was accepted.
 
-07/2019: Han starts a consulting job at Harvard University.
+07/2019: Han started a consulting job at Harvard University.
 
-06/2019: Han graduates from Nankai University with distinction.
+06/2019: Han graduated from Nankai University with distinction.
