@@ -15,25 +15,23 @@ Also, the idea of travel, packing my bags, and disappearing to someplace new, li
 
 News
 =
-04/2022: A J. Biomed. Inform. paper on [AutoScore-Imbalance](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000880) was accepted.
+04/2022: A J. Biomed. Inform. paper (IF: 8.000, JCR: Q1) was accepted.
 
 01/2022: Han started a research internship at the University of Zurich.
 
-12/2021: A J. Biomed. Inform. paper on [temporal data representation](https://www.sciencedirect.com/science/article/abs/pii/S1532046421003099) was accepted.
+12/2021: Two J. Biomed. Inform. papers (IF: 8.000, JCR: Q1) were accepted.
 
-12/2021: A J. Biomed. Inform. paper on [AutoScore-Survival](https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884) was accepted.
+06/2021: A R package was officially released in CRAN.
 
-06/2021: [AutoScore R package](https://cran.r-project.org/web/packages/AutoScore/index.html) was officially released in CRAN.
+05/2021: A J. Exp. Clin. Cancer Res. (IF: 12.658, JCR: Q1)paper was accepted.
 
-05/2021: A J. Exp. Clin. Cancer Res. paper on [renal cell carcinoma progression](https://link.springer.com/article/10.1186/s13046-021-01980-0) was accepted.
+02/2021: Han made an oral presentation at the International Conference on Medical and Health Informatics.
 
-02/2021: Han made an oral presentation on [adverse drug reaction](https://dl.acm.org/doi/abs/10.1145/3472813.3472817) at the International Conference on Medical and Health Informatics.
-
-09/2020: A Front. Oncol. paper on [postoperative recovery](https://www.frontiersin.org/articles/10.3389/fonc.2020.513874/full) was accepted.
+09/2020: A Front. Oncol. paper (IF: 5.738, JCR: Q2) was accepted.
 
 08/2020: Han started his Ph.D. study at Duke-NUS Medical School.
 
-06/2020: An Int. J. Biostat. paper on [Kaplan–Meier estimator](https://www.degruyter.com/document/doi/10.1515/ijb-2019-0095/html) was accepted.
+06/2020: An Int. J. Biostat. paper (IF: 1.829, JCR: Q2) was accepted.
 
 07/2019: Han started a research internship at Harvard University.
 
