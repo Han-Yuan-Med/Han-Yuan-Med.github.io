@@ -36,3 +36,9 @@ News
 07/2019: Han started a research internship at Harvard University.
 
 06/2019: Han graduated from Nankai University with distinction.
+
+08/2017: Han started an analyst internship at Founder Securities.
+
+08/2016: Han started an analyst internship at Bank of China.
+
+09/2015: Han started his undergraduate study at Nankai University.
