@@ -25,7 +25,7 @@ News
 
 05/2021: A J. Exp. Clin. Cancer Res. paper was accepted (IF: 12.658, JCR: Q1).
 
-02/2021: Han made an oral presentation at the International Conference on Medical and Health Informatics.
+02/2021: Han made an oral presentation at the ICMHI.
 
 09/2020: A Front. Oncol. paper was accepted (IF: 5.738, JCR: Q2).
 
