@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Han's Academic Website"
+title                    : "Han's Academic Page"
 title_separator          : "-"
 name                     : &name "Han Yuan"
 description              : &description "Ph.D. Student at Duke-NUS Medical School"
