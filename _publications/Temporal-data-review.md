@@ -1,5 +1,5 @@
 ---
-title: "#7 Deep learning for temporal data representation in electronic health records: A systematic review of challenges and methodologies"
+title: "Deep learning for temporal data representation in electronic health records: A systematic review of challenges and methodologies"
 collection: publications
 permalink: /publication/Temporal-data-review
 excerpt: ''

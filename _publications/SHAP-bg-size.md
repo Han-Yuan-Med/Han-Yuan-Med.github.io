@@ -1,5 +1,5 @@
 ---
-title: "#9 An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations (SHAP) for deep learning models"
+title: "An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations (SHAP) for deep learning models"
 collection: publications
 permalink: /publication/SHAP-bg-size
 excerpt: ''

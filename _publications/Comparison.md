@@ -1,5 +1,5 @@
 ---
-title: "#10 Interpretable Machine Learning-Based Risk Scoring with Individual and Ensemble Model Selection for Clinical Decision Making"
+title: "Interpretable Machine Learning-Based Risk Scoring with Individual and Ensemble Model Selection for Clinical Decision Making"
 collection: publications
 permalink: /publication/Comparison
 excerpt: ''

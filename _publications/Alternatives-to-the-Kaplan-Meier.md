@@ -1,5 +1,5 @@
 ---
-title: "#1 Alternatives to the Kaplan-Meier estimator of progression-free survival"
+title: "Alternatives to the Kaplan-Meier estimator of progression-free survival"
 collection: publications
 permalink: /publication/Alternatives-to-the-Kaplan-Meier
 excerpt: ''

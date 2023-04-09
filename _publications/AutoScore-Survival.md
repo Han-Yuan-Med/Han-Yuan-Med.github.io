@@ -1,5 +1,5 @@
 ---
-title: "#5 AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data"
+title: "AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data"
 collection: publications
 permalink: /publication/AutoScore-Survival
 excerpt: ''

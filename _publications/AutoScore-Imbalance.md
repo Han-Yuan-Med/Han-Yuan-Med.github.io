@@ -1,5 +1,5 @@
 ---
-title: "#8 AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data"
+title: "AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data"
 collection: publications
 permalink: /publication/AutoScore-Imbalance
 excerpt: ''

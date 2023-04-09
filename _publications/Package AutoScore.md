@@ -1,5 +1,5 @@
 ---
-title: "#6 Package AutoScore"
+title: "Package AutoScore"
 collection: publications
 permalink: /publication/Package AutoScore
 excerpt: ''
