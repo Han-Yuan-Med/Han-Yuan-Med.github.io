@@ -15,6 +15,7 @@ Also, the idea of travel, packing my bags, and disappearing to someplace new, li
 
 News
 =
+05/2023: Han made two oral presentations at ICLR.  
 04/2022: A paper got accepted to J. Biomed. Inform. (IF: 8.000, JCR: Q1).  
 01/2022: Han started his research internship at University of Zurich.  
 12/2021: Two papers got accepted to J. Biomed. Inform. (IF: 8.000, JCR: Q1).  
