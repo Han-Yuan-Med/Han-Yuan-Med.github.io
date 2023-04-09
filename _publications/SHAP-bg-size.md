@@ -3,7 +3,7 @@ title: "#9 An empirical study of the effect of background data size on the stabi
 collection: publications
 permalink: /publication/SHAP-bg-size
 excerpt: ''
-date: 2022-04-24
+date: 2023-05-31
 venue: 'Proceedings of the International Conference on Learning Representations (Tiny Papers Track)'
 paperurl: 'http://han-yuan-med.github.io/files/SHAP-bg-size.pdf'
 ---
