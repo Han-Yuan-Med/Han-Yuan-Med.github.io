@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Han. I received double B.S. degrees in Biology and Applied Mathematics (ranking: 1st/79) from **Nankai University**, where I participated in several projects about operations research, medical informatics, and evolutionary biology. Subsequently, I worked as a research scholar at **Harvard University** concentrating on epidemiology and biostatistics. After that, I pursued my Ph.D. in Health Data Science at **Duke-NUS Medical School**, an esteemed inter-institutional partnership between **Duke University** and **National University of Singapore**, during which time I exchanged at **Universität Zürich**. My industry experiences include data analytics internships at **Bank of China** and **Founder Securities**.
+Hi! I am Han. I received B.S. degree in Applied Mathematics (ranking: 1st/79) from **Nankai University**, where I participated in several projects about operations research, medical informatics, and evolutionary biology. Subsequently, I worked as a research scholar at **Harvard University** concentrating on epidemiology and biostatistics. After that, I pursued my Ph.D. in Biostatistics at **Duke-NUS Medical School**, an esteemed inter-institutional partnership between **Duke University** and **National University of Singapore**, during which time I exchanged at **Universität Zürich**. My industry experiences include data analytics internships at **Bank of China** and **Founder Securities**.
 
-My current research interests focus on [Explainable Artificial Intelligence (XAI)](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) in Healthcare. I am also widely interested in the latest breakthroughs in machine intelligence, particularly in the fields of computer vision and natural language processing.
+My current research interests focus on [Explainable Artificial Intelligence (XAI)](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) in Healthcare. I am also widely interested in the latest breakthroughs in computer vision and natural language processing.
 
 Also, the idea of travel, packing my bags, and disappearing to someplace new, lives inside my brain allllll the time. I have journeyed to over 20 countries and have been spellbound by the surreal natural wonders, including [the blue-burning]((/files/travel/blue_fire.jpg)) [volcano](/files/travel/volcano.jpg), [the glacier](/files/travel/glacier.jpg) at [the end of the earth](/files/travel/earth_end.jpg), [the pink ocean](/files/travel/pink_lake.jpg) in [the barren saline land](/files/travel/barren.jpg), [the black sand beach](/files/travel/black_beach.jpg) with [crashing waves](/files/travel/waves.jpg), and [the auroras](/files/travel/aurora.jpg) [dancing across the skies](/files/travel/aurora_dancing.jpg). Whether in search of a research collaborator or travel companion, please do not hesitate to <a href="mailto:yuan.han@u.duke.nus.edu">contact me</a>.
 
@@ -26,7 +26,7 @@ News
 08/2020: Han started his Ph.D. study at Duke-NUS Medical School.  
 06/2020: A paper got accepted to Int. J. Biostat. (IF: 1.829, JCR: Q2).  
 07/2019: Han started his research internship at Harvard University.  
-06/2019: Han obtained his double B.S. degrees with distinction.  
+06/2019: Han obtained his B.S. degree with distinction.  
 08/2017: Han started his analyst internship at Founder Securities.  
 08/2016: Han started his analyst internship at Bank of China.  
 09/2015: Han started his undergraduate study at Nankai University.  
