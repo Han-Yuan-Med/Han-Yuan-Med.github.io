@@ -19,4 +19,4 @@ AutoScore-Imbalance outperformed baselines in terms of AUC and balanced accuracy
 Conclusions
 We have developed an interpretable tool to handle clinical data imbalance, presented its structure, and demonstrated its superiority over baselines. The AutoScore-Imbalance tool can be applied to highly unbalanced datasets to gain further insight into rare medical events and facilitate real-world clinical decision-making.
 
-Download [here](http://han-yuan-med.github.io/files/AutoScore-Imbalance.pdf)
+Download [here](http://han-yuan-med.github.io/files/AutoScore-Imbalance An interpretable machine learning tool for development of clinical scores with rare events data.pdf)
