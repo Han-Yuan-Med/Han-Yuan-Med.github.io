@@ -1,7 +1,7 @@
 ---
 title: "Effect of enhanced recovery after surgery on postoperative recovery and quality of life in patients undergoing laparoscopic partial nephrectomy"
 collection: publications
-permalink: /publication/Effect of enhanced recovery
+permalink: /publication/Effect-of-enhanced-recovery
 excerpt: ''
 date: 2020-10-14
 venue: 'Frontiers in Oncology'

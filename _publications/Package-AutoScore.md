@@ -1,7 +1,7 @@
 ---
 title: "Package AutoScore"
 collection: publications
-permalink: /publication/Package AutoScore
+permalink: /publication/Package-AutoScore
 excerpt: ''
 date: 2021-11-23
 venue: 'R Package'

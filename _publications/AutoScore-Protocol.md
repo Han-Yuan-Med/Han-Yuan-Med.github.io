@@ -1,7 +1,7 @@
 ---
 title: "A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes"
 collection: publications
-permalink: /publication/AutoScore-Protocol
+permalink: /publication/AutoScore-protocol
 excerpt: ''
 date: 2023-05-16
 venue: 'STAR Protocols'
