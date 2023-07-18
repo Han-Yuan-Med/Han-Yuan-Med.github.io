@@ -52,4 +52,4 @@ Also, the idea of travel, packing my bags, and disappearing to someplace new, li
 </ul>
 
 # Visitor Map
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=Fdoa_8lYghMRtvjcjmYyKs5Dgo1ULEX2F94UDV-wtrc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=900&t=tt&d=Fdoa_8lYghMRtvjcjmYyKs5Dgo1ULEX2F94UDV-wtrc&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
