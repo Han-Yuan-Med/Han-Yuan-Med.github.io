@@ -16,19 +16,22 @@ Also, the idea of travel, packing my bags, and disappearing to someplace new, li
 News
 =
 <ul style="width: auto; height: 300px; overflow: auto">
-  05/2023: Han made two oral presentations at ICLR.  
-04/2022: A paper got accepted to J. Biomed. Inform. (IF: 8.000, JCR: Q1).  
-01/2022: Han started his research internship at University of Zurich.  
-12/2021: Two papers got accepted to J. Biomed. Inform. (IF: 8.000, JCR: Q1).  
-06/2021: A R package was officially released in CRAN.  
-05/2021: A paper got accepted to J. Exp. Clin. Cancer Res. (IF: 12.658, JCR: Q1).  
-02/2021: Han made an oral presentation at ICMHI.  
-09/2020: A paper got accepted to Front. Oncol. (IF: 5.738, JCR: Q2).  
-08/2020: Han started his Ph.D. study at Duke-NUS Medical School.  
-06/2020: A paper got accepted to Int. J. Biostat. (IF: 1.829, JCR: Q2).  
-07/2019: Han started his research internship at Harvard University.  
-06/2019: Han obtained his B.S. degree with distinction.  
-08/2017: Han started his analyst internship at Founder Securities.  
-08/2016: Han started his analyst internship at Bank of China.  
-09/2015: Han started his undergraduate study at Nankai University.  
+<li>05/2023: Han made two oral presentations at ICLR.</li>
+<li>04/2022: A paper got accepted to J. Biomed. Inform. (IF: 8.000, JCR: Q1).</li>
+<li>01/2022: Han started his research internship at University of Zurich.</li>
+<li>12/2021: Two papers got accepted to J. Biomed. Inform. (IF: 8.000, JCR: Q1).</li>
+<li>06/2021: A R package was officially released in CRAN.</li>
+<li>05/2021: A paper got accepted to J. Exp. Clin. Cancer Res. (IF: 12.658, JCR: Q1).</li>
+<li>02/2021: Han made an oral presentation at ICMHI.</li>
+<li>09/2020: A paper got accepted to Front. Oncol. (IF: 5.738, JCR: Q2).</li>
+<li>08/2020: Han started his Ph.D. study at Duke-NUS Medical School.</li>
+<li>06/2020: A paper got accepted to Int. J. Biostat. (IF: 1.829, JCR: Q2).</li>
+<li>07/2019: Han started his research internship at Harvard University.</li>
+<li>06/2019: Han obtained his B.S. degree with distinction.</li>
+<li>08/2017: Han started his analyst internship at Founder Securities.</li>
+<li>08/2016: Han started his analyst internship at Bank of China.</li>
+<li>09/2015: Han started his undergraduate study at Nankai University.</li>
 </ul>
+
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Fdoa_8lYghMRtvjcjmYyKs5Dgo1ULEX2F94UDV-wtrc"></script>
