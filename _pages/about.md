@@ -32,7 +32,7 @@ Also, the idea of travel, packing my bags, and disappearing to someplace new, li
   <li>03/2023: Han obtained the student accommodation awards of ICLR.</li>
   <li>12/2022: Han obtained the pre-doctoral research exchange awards.</li>
   <li>04/2022: A paper got accepted to J. Biomed. Inform. (IF: 8.000, JCR: Q1).</li>
-  <li>02/2022: Han obtained the runner-up of the 7th annual Ph.D. student research symposium.</li>
+  <li>02/2022: Han obtained the runner-up of the annual student research symposium.</li>
   <li>01/2022: Han started his research scholar at University of Zurich.</li>
   <li>12/2021: Two papers got accepted to J. Biomed. Inform. (IF: 8.000, JCR: Q1).</li>
   <li>06/2021: A R package was officially released in CRAN.</li>
