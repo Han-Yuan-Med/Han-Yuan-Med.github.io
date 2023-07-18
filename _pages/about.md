@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Han"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,17 +11,17 @@ Hi! I am Han. My current research interests focus on [Explainable Artificial Int
 
 Also, the idea of travel, packing my bags, and disappearing to someplace new, lives inside my brain allllll the time. I have journeyed to over 20 countries and have been spellbound by the surreal natural wonders, including [the blue-burning]((/files/travel/blue_fire.jpg)) [volcano](/files/travel/volcano.jpg), [the glacier](/files/travel/glacier.jpg) at [the end of the earth](/files/travel/earth_end.jpg), [the pink ocean](/files/travel/pink_lake.jpg) in [the barren saline land](/files/travel/barren.jpg), [the black sand beach](/files/travel/black_beach.jpg) with [crashing waves](/files/travel/waves.jpg), and [the auroras](/files/travel/aurora.jpg) [dancing across the skies](/files/travel/aurora_dancing.jpg). Whether in search of a research collaborator or travel companion, please do not hesitate to <a href="mailto:yuan.han@u.duke.nus.edu">contact me</a>.
 
-# Education & Academic Training
+## Education & Academic Training
 * Ph.D., Biostatistics and Health Data Science, Duke-NUS Medical School
 * Research Scholar, Biostatistics and Bioinformatics, Duke University
 * Research Scholar, Quantitative Biomedicine, University of Zurich
 * Research Scholar, Epidemiology and Biostatistics, Harvard University
 * Double B.S. Degrees, Biotechnology and Applied Mathematics, Nankai University
 
-# Editorial Services
+## Editorial Services
 * Referee, Data Science Journal, 2023.07 - Present
 
-# News
+## News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>07/2023: Han made a poster presentation at MIDL, Short Paper Track.</li>
   <li>07/2023: Han started his research scholar at Duke University.</li>
