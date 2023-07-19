@@ -29,8 +29,8 @@ Thank you for visiting my academic website. I invite you to explore the publicat
   <li>07/2023: Han made a poster presentation at MIDL, Short Paper Track.</li>
   <li>07/2023: Han started his research scholar at Duke University.</li>
   <li>06/2023: A paper got accepted to Artif. Intell. Med. (IF: 7.011, JCR: Q1).</li>
-  <li>05/2023: A paper got accepted to STAR Protoc. (IF: TBD, JCR: TBD).</li>
   <li>05/2023: Han made two oral presentations at ICLR, Tiny Paper Track.</li>
+  <li>05/2023: A paper got accepted to STAR Protoc. (IF: TBD, JCR: TBD).</li>
   <li>03/2023: Han obtained the student accommodation awards of ICLR.</li>
   <li>12/2022: Han obtained the pre-doctoral research exchange awards.</li>
   <li>04/2022: A paper got accepted to J. Biomed. Inform. (IF: 8.000, JCR: Q1).</li>
