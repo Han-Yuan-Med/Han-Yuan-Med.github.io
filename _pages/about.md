@@ -23,7 +23,7 @@ Thank you for visiting my academic website. I invite you to explore the publicat
 
 # Editorial Services
 * Referee, Data Science Journal, 2023.07 - Present
-* Referee, Machine Learning for Health Symposium 2023, 2023.09 - 2023.10
+* Referee, Machine Learning for Health Symposium, 2023.09 - 2023.10
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
