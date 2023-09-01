@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Han. Throughout my journey, I have been driven by a passion for advancing knowledge in healthcare. I am particularly interested in the intersection of statistics and machine intelligence, and I strive to develop innovative methodologies that inform evidence-based decision-making. I also have a keen interest in the latest breakthroughs in the fields of computer vision and natural language processing.
+Hi! I am Han. Throughout my journey, I have been driven by a passion for advancing knowledge in healthcare. I am particularly interested in the intersection of statistics and machine intelligence, and I strive to develop innovative methodologies that inform evidence-based decision-making. I also have a keen interest in the latest breakthroughs in computer vision and natural language processing.
 
 Also, the idea of traveling✈️, packing my bags👜, and disappearing to someplace new🏞️, lives inside my brain all the time🧠. I have journeyed to over 20 countries and have been spellbound by the surreal natural wonders, including [the blue-burning](/files/travel/blue_fire.jpg)🔥[volcano](/files/travel/volcano.jpg)🌋, [the glacier](/files/travel/glacier.jpg)🧊at [the end of the earth](/files/travel/earth_end.jpg)🌎, [the pink ocean](/files/travel/pink_lake.jpg)🦩in [the barren saline land](/files/travel/barren.jpg)🌵, [the black sand beach](/files/travel/black_beach.jpg)🐚with [crashing waves](/files/travel/waves.jpg)🌊, and [the auroras](/files/travel/aurora.jpg)🌌[dancing across the skies](/files/travel/aurora_dancing.jpg)🌠. 
 
