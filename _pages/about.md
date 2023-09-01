@@ -42,11 +42,11 @@ Thank you for visiting my academic website. I invite you to explore the publicat
   <li>04/2022: A paper got accepted to J. Biomed. Inform. (IF: 8.0, JCR: Q1).</li>
   <li>02/2022: Han obtained the runner-up of the annual student research symposium.</li>
   <li>01/2022: Han started his research scholar at University of Zurich.</li>
-  <li>12/2021: Two papers got accepted to J. Biomed. Inform. (IF: 8.0, JCR: Q1).</li>
+  <li>12/2021: Two papers got accepted to J. Biomed. Inform. (IF: 6.3, JCR: Q1).</li>
   <li>06/2021: A R package was officially released in CRAN.</li>
-  <li>05/2021: A paper got accepted to J. Exp. Clin. Cancer Res. (IF: 12.7, JCR: Q1).</li>
+  <li>05/2021: A paper got accepted to J. Exp. Clin. Cancer Res. (IF: 11.2, JCR: Q1).</li>
   <li>02/2021: Han made an oral presentation at ICMHI, Full Paper Track.</li>
-  <li>09/2020: A paper got accepted to Front. Oncol. (IF: 5.7, JCR: Q2).</li>
+  <li>09/2020: A paper got accepted to Front. Oncol. (IF: 4.8, JCR: Q2).</li>
   <li>08/2020: Han started his Ph.D. study at Duke-NUS Medical School.</li>
   <li>06/2020: A paper got accepted to Int. J. Biostat. (IF: 1.8, JCR: Q2).</li>
   <li>07/2019: Han started his research scorlar at Harvard University.</li>
