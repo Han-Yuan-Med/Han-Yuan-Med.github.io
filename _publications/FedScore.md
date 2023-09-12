@@ -19,4 +19,6 @@ We compared the acquired FedScore model’s performance with that of other scori
 Conclusion
 This study demonstrates that FedScore is a privacy-preserving scoring system generator with potentially good generalizability.
 
-Download [here](http://han-yuan-med.github.io/files/FedScore A Privacy-Preserving Framework for Federated Scoring System Development.pdf)
+{% include base_path %}
+
+<embed src="{{ site.baseurl }}/files/FedScore A Privacy-Preserving Framework for Federated Scoring System Development.pdf" width="600" height="700" type='application/pdf'> 
