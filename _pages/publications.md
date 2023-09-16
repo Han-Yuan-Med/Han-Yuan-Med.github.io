@@ -15,12 +15,16 @@ author_profile: true
 * Xie, F., Ning Y., Yuan, H., ... & Liu, N. (2021). Package 'AutoScore': An Interpretable Machine Learning-Based Automatic Clinical Score Generator. R Package. ([Paper](http://han-yuan-med.github.io/files/Package AutoScore.pdf), [Code](https://github.com/nliulab/AutoScore))
 * Zhang, J., Sun, Z., Yuan, H., & Wang, M. (2020). Alternatives to the Kaplan-Meier estimator of progression-free survival. The International Journal of Biostatistics. ([Paper](http://han-yuan-med.github.io/files/Alternatives to the Kaplan–Meier estimator of progression-free survival.pdf))
 * Miao, C.†, Yu, A.†, Yuan, H.†, ... & Wang, Z. (2020). Effect of Enhanced Recovery After Surgery on Postoperative Recovery and Quality of Life in Patients Undergoing Laparoscopic Partial Nephrectomy. Frontiers in Oncology. ([Paper](http://han-yuan-med.github.io/files/Effect of Enhanced Recovery After Surgery on Postoperative Recovery and Quality of Life in Patients Undergoing Laparoscopic Partial Nephrectomy.pdf))
+
 # Image Data Analysis
 * Yuan, H., Jiang, P. & Zhao, G. (2023). Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier. Medical Imaging with Deep Learning, Short Paper Track. ([Paper](http://han-yuan-med.github.io/files/Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier.pdf))
+
 # Text Data Analysis
 * Zhao, Y.†, Yuan, H.† & Wu, Y. (2021). Prediction of Adverse Drug Reaction using Machine Learning Based on an Imbalanced Electronic Medical Records Dataset. International Conference on Medical and Health Informatics, Full Paper Track. ([Paper](http://han-yuan-med.github.io/files/Prediction of Adverse Drug Reaction using Machine Learning and Deep Learning Based on an Imbalanced Electronic Medical Records Dataset.pdf))
+
 # Multi-modality Data Analysis
 * Liu, M., Li, S., Yuan, H., ... & Liu, N. (2023). Handling missing values in healthcare data: A systematic review of deep learning-based imputation techniques. Artificial Intelligence in Medicine. ([Paper](http://han-yuan-med.github.io/files/Handling missing values in healthcare data A systematic review of deep learning-based imputation techniques.pdf))
+
 # Machine Learning Theory
 * Kang, L., Yuan, H. & Zhu C. (2023). Error Analysis of Fitted Q-iteration with ReLU-activated Deep Neural Networks. International Conference on Learning Representations, Tiny Paper Track. ([Paper](http://han-yuan-med.github.io/files/Error Analysis of Fitted Q-iteration with ReLU-Activated Deep Neural Networks.pdf))
 * Yuan, H.†, Liu, M.†, … & Wu, Y. (2023). An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations for deep learning models. International Conference on Learning Representations, Tiny Paper Track. ([Paper](http://han-yuan-med.github.io/files/An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations (SHAP) for deep learning models.pdf), [Code](https://github.com/Han-Yuan-Med/shap-bg-size))
