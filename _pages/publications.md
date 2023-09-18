@@ -28,5 +28,6 @@ author_profile: true
 # Machine Learning Theory
 * Kang, L., Yuan, H. & Zhu C. (2023). Error Analysis of Fitted Q-iteration with ReLU-activated Deep Neural Networks. International Conference on Learning Representations, Tiny Paper Track. ([Paper](http://han-yuan-med.github.io/files/Error Analysis of Fitted Q-iteration with ReLU-Activated Deep Neural Networks.pdf))
 * Yuan, H.†, Liu, M.†, … & Wu, Y. (2023). An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations for deep learning models. International Conference on Learning Representations, Tiny Paper Track. ([Paper](http://han-yuan-med.github.io/files/An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations (SHAP) for deep learning models.pdf), [Code](https://github.com/Han-Yuan-Med/shap-bg-size))
+* Liu, M., Ning, Y., Yuan, H., Ong, M., Liu, N. (2022). Balanced background and explanation data are needed in explaining deep learning models with SHAP: An empirical study on clinical decision making. arXiv. ([Paper]((http://han-yuan-med.github.io/files/Balanced background and explanation data are needed in explaining deep learning models with SHAP An empirical study on clinical decision making))
 
 † Equal Contribution
