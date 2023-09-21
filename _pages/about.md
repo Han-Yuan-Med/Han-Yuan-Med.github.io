@@ -58,6 +58,3 @@ Thank you for visiting my academic website. I invite you to explore the publicat
   <li>08/2016: Han started his analyst internship at Bank of China.</li>
   <li>09/2015: Han started his undergraduate study at Nankai University.</li>
 </ul>
-
-# Visitor Map
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=Fdoa_8lYghMRtvjcjmYyKs5Dgo1ULEX2F94UDV-wtrc&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
