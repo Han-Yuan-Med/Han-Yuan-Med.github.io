@@ -9,6 +9,7 @@ Contact information is below, including email and various web services.  This i
 * E-mail: yuan.han [at] u.duke.nus.edu
 * Twitter: [Han Yuan](https://twitter.com/hyuan1998)
 * Google Scholar: [author:han-yuan](https://scholar.google.com/citations?user=MKjp730AAAAJ&hl=zh-CN)
+* ResearchGate: [Han Yuan](https://www.researchgate.net/profile/Han-Yuan-6)
 
 # Visitor Map
 <a href='https://clustrmaps.com/site/1bvol'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=900&t=n&d=Fdoa_8lYghMRtvjcjmYyKs5Dgo1ULEX2F94UDV-wtrc&co=ffffff&ct=ffffff'/></a>
