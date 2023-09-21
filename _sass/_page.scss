@@ -50,8 +50,6 @@
 
 .page__content {
 
-  text-align: justify;
-
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -259,13 +257,13 @@
   }
 
   strong {
-    margin-right: 0px;
+    margin-right: 10px;
   }
 }
 
 .page__taxonomy-item {
   display: inline-block;
-  margin-right: 0px;
+  margin-right: 5px;
   margin-bottom: 8px;
   padding: 5px 10px;
   text-decoration: none;
