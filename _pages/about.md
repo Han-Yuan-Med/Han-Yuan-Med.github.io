@@ -28,6 +28,7 @@ Thank you for visiting my academic website. I invite you to explore the publicat
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li>10/2023: Han completed a review for Expert Syst. Appl. (IF: 8.5, JCR: Q1).</li>
   <li>10/2023: Han completed three reviews for ML4H, Full Paper Track.</li>
   <li>09/2023: A paper got accepted to J. Biomed. Inform. (IF: 4.5, JCR: Q2).</li>
   <li>08/2023: Han completed a review for Expert Syst. Appl. (IF: 8.5, JCR: Q1).</li>
