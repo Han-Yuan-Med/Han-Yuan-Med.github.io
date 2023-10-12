@@ -17,7 +17,7 @@ Thank you for visiting my academic website. I invite you to explore the publicat
 * Ph.D., Biostatistics & Health Data Science, Duke-NUS Medical School
 * Research Scholar, Biostatistics & Bioinformatics, Duke University
 * Research Scholar, Quantitative Biomedicine, University of Zurich
-* Research Scholar, Epidemiology & Biostatistics, Harvard University
+* Consultant, Epidemiology & Biostatistics, Harvard University
 * B.S., Mathematics & Applied Mathematics, Nankai University
 * B.S., Biotechnology, Nankai University
 
@@ -50,7 +50,7 @@ Thank you for visiting my academic website. I invite you to explore the publicat
   <li>09/2020: A paper got accepted to Front. Oncol. (IF: 4.8, JCR: Q2).</li>
   <li>08/2020: Han started his Ph.D. study at Duke-NUS Medical School.</li>
   <li>06/2020: A paper got accepted to Int. J. Biostat. (IF: 1.8, JCR: Q2).</li>
-  <li>07/2019: Han started his research scorlar at Harvard University.</li>
+  <li>07/2019: Han started his consultant at Harvard University.</li>
   <li>06/2019: Han obtained his double B.S. degrees with distinction.</li>
   <li>12/2018: Han obtained the 3rd prize of excellent undergraduate scholarship.</li>
   <li>12/2017: Han obtained the 1st prize of excellent undergraduate scholarship.</li>
