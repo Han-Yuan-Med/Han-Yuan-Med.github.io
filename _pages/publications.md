@@ -6,6 +6,7 @@ author_profile: true
 ---
 # Image Data Analysis
 * Yuan, H.†, Hong, C.†, ... & Liu, N. (2024). Leveraging Anatomical Constraints with Uncertainty for Pneumothorax Segmentation. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/constrained-learning))
+* Yuan, H.†, Hong, C.†, ... & Liu, N. (2024). Domain Knowledge-Based Template Improves Post Hoc Explanations in Pneumothorax Classification. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
 * Yuan, H., Jiang, P. & Zhao, G. (2023). Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier. *Medical Imaging with Deep Learning, Short Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier.pdf))
 
 # Tabular Data Analysis
