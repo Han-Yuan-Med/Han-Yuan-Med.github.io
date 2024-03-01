@@ -22,7 +22,7 @@ Thank you for visiting my academic website. I invite you to explore the publicat
 * B.S., Biotechnology, Nankai University
 
 # Editorial Services
-* Program Committee Member, International Conference on Image, Video Processing and Artificial Intelligence
+* PC Member, International Conference on Image, Video Processing and Artificial Intelligence
 * Referee, Expert Systems With Applications (IF: 8.5, JCR: Q1)
 * Referee, Data Science Journal (IF: TBD, JCR: TBD)
 * Referee, Machine Learning for Health Symposium
