@@ -22,12 +22,14 @@ Thank you for visiting my academic website. I invite you to explore the publicat
 * B.S., Biotechnology, Nankai University
 
 # Editorial Services
+* Program Committee Member, International Conference on Image, Video Processing and Artificial Intelligence
 * Referee, Expert Systems With Applications (IF: 8.5, JCR: Q1)
 * Referee, Data Science Journal (IF: TBD, JCR: TBD)
 * Referee, Machine Learning for Health Symposium
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li>03/2024: Han completed X reviews for IVPAI, Full Paper Track.</li>
   <li>12/2023: A paper got accepted to IEEE Trans. Neural Netw. Learn. Syst. (IF: 10.4, JCR: Q1).</li>
   <li>11/2023: Han made a poster presentation at AI Health Summit, Abstract Track.</li>
   <li>10/2023: Han completed a review for Expert Syst. Appl. (IF: 8.5, JCR: Q1).</li>
