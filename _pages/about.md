@@ -13,12 +13,10 @@ Also, the idea of traveling✈️, packing my bags👜, and disappearing to some
 
 Thank you for visiting my academic website. I invite you to explore the publications section, where you will find a comprehensive list of my research papers and have direct access to the full text of each publication. Whether you are in search of a research collaborator or a travel companion, please feel free to <a href="mailto:yuan.han@u.duke.nus.edu">contact me</a>.
 
-# Education
+# Education & Academic Training
 * Ph.D., Biostatistics & Health Data Science, Duke-NUS Medical School
 * B.S., Mathematics & Applied Mathematics, Nankai University
 * B.S., Biotechnology, Nankai University
-
-# Academic Training
 * Research Scholar, Biostatistics & Bioinformatics, Duke University
 * Research Scholar, Quantitative Biomedicine, University of Zurich
 * Consultant, Epidemiology & Biostatistics, Harvard University
