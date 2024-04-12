@@ -11,6 +11,8 @@ author_profile: true
 * Yuan, H., Jiang, P. & Zhao, G. (2023). Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier. *Medical Imaging with Deep Learning, Short Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
 
 # Tabular Data Analysis
+* Yuan, H., … & Fan, Z. (2024). Human-in-the-loop Machine Learning for Healthcare: Current Progress and Future Opportunities in Electronic Health Records. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
+* Liu, P., Yuan, H., … & Peres, M. (2024). A Modified Gower Distance-based Clustering Analysis for Mixed-type Data. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Yuan, H., … & Xie, F. (2023). Interpretable Machine Learning-Based Risk Scoring with Individual and Ensemble Model Selection for Clinical Decision Making. *International Conference on Learning Representations, Tiny Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Interpretable Machine Learning-Based Risk Scoring with Individual and Ensemble Model Selection for Clinical Decision Making.pdf), [Code](https://github.com/Han-Yuan-Med/comparison))
 * Li, S., ... Yuan, H., ... & Liu, N. (2023). FedScore: A privacy-preserving framework for federated scoring system development. *Journal of Biomedical Informatics*. ([Paper](http://han-yuan-med.github.io/files/FedScore A Privacy-Preserving Framework for Federated Scoring System Development.pdf), [Code](https://github.com/nliulab/FedScore))
 * Xie, F., ... Yuan, H., ... & Liu, N. (2023). A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes. *STAR Protocols*. ([Paper](http://han-yuan-med.github.io/files/A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes.pdf), [Code](https://github.com/nliulab/AutoScore))
@@ -26,6 +28,7 @@ author_profile: true
 * Zhao, Y.†, Yuan, H.† & Wu, Y. (2021). Prediction of Adverse Drug Reaction using Machine Learning Based on an Imbalanced Electronic Medical Records Dataset. *International Conference on Medical and Health Informatics, Full Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Prediction of Adverse Drug Reaction using Machine Learning and Deep Learning Based on an Imbalanced Electronic Medical Records Dataset.pdf))
 
 # Multi-modality Data Analysis
+* Yuan, H., … & Liu, M. (2024). Automated Machine Learning with Interpretation: A Systematic Review of Methodologies and Applications in Healthcare. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Liu, M., Li, S., Yuan, H., ... & Liu, N. (2023). Handling missing values in healthcare data: A systematic review of deep learning-based imputation techniques. *Artificial Intelligence in Medicine*. ([Paper](http://han-yuan-med.github.io/files/Handling missing values in healthcare data A systematic review of deep learning-based imputation techniques.pdf))
 
 # Machine Learning Theory
