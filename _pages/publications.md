@@ -6,8 +6,8 @@ author_profile: true
 ---
 # Image Data Analysis
 * Yuan, H. & Hong, C. (2024). Image Foundation Model Makes Clustering A Better Initialization For Active Learning. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/foundation-model))
-* Yuan, H., Hong, C., ... & Liu, N. (2024). Leveraging Anatomical Constraints with Uncertainty for Pneumothorax Segmentation. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/constrained-learning))
-* Yuan, H., Hong, C.†, ... & Liu, N. (2024). Clinical Domain Knowledge-derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
+* Yuan, H., ... & Liu, N. (2024). Leveraging Anatomical Constraints with Uncertainty for Pneumothorax Segmentation. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/constrained-learning))
+* Yuan, H., ... & Liu, N. (2024). Clinical Domain Knowledge-derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
 * Yuan, H., Jiang, P. & Zhao, G. (2023). Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier. *Medical Imaging with Deep Learning, Short Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
 
 # Tabular Data Analysis
@@ -33,7 +33,7 @@ author_profile: true
 
 # Machine Learning Theory
 * Kang, L., …, Yuan, H. & Zhu, C. (2024). Approximate Policy Iteration with Deep Minimax Average Bellman Error Minimization. *IEEE Transactions on Neural Networks and Learning Systems*. ([Paper](http://han-yuan-med.github.io/files/Approximate Policy Iteration With Deep Minimax Average Bellman Error Minimization.pdf))
-* Yuan, H., Liu, M., … & Wu, Y. (2023). An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations for deep learning models. *International Conference on Learning Representations, Tiny Paper Track*. ([Paper](http://han-yuan-med.github.io/files/An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations (SHAP) for deep learning models.pdf), [Code](https://github.com/Han-Yuan-Med/shap-bg-size))
+* Yuan, H., … & Wu, Y. (2023). An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations for deep learning models. *International Conference on Learning Representations, Tiny Paper Track*. ([Paper](http://han-yuan-med.github.io/files/An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations (SHAP) for deep learning models.pdf), [Code](https://github.com/Han-Yuan-Med/shap-bg-size))
 * Kang, L., Yuan, H. & Zhu C. (2023). Error Analysis of Fitted Q-iteration with ReLU-activated Deep Neural Networks. *International Conference on Learning Representations, Tiny Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Error Analysis of Fitted Q-iteration with ReLU-Activated Deep Neural Networks.pdf))
 * Liu, M., Ning Y., Yuan, H., … & Liu, N. (2022). Balanced background and explanation data are needed in explaining deep learning models with SHAP: An empirical study on clinical decision making. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/Balanced background and explanation data are needed in explaining deep learning models with SHAP An empirical study on clinical decision making.pdf))
 
