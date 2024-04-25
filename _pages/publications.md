@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Image Data Analysis
-* Yuan, H.☯︎, Hong, C.☯︎, ... & Liu, N. (2024). Image Foundation Model Makes Clustering A Better Initialization For Active Learning. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/foundation-model))
+* Yuan, H.☯︎, Hong, C.☯︎, ... & Liu, N. (2024). Image Foundation Model Makes Clustering A Better Initialization For Cold-Start Active Learning. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/foundation-model))
 * Yuan, H.☯︎, Hong, C.☯︎, ... & Liu, N. (2024). Leveraging Anatomical Constraints with Uncertainty for Pneumothorax Segmentation. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/constrained-learning))
 * Yuan, H.☯︎, Hong, C.☯︎, ... & Liu, N. (2024). Clinical Domain Knowledge-derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
 * Yuan, H., Jiang, P. & Zhao, G. (2023). Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier. *Medical Imaging with Deep Learning, Short Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
