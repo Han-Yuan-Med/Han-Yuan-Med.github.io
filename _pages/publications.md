@@ -27,7 +27,7 @@ author_profile: true
 # Text Data Analysis
 * Zhao, Y.☯︎, Yuan, H.☯︎ & Wu, Y. (2021). Prediction of Adverse Drug Reaction using Machine Learning Based on an Imbalanced Electronic Medical Records Dataset. *International Conference on Medical and Health Informatics, Full Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Prediction of Adverse Drug Reaction using Machine Learning and Deep Learning Based on an Imbalanced Electronic Medical Records Dataset.pdf))
 
-# Multi-modality Data Analysis
+# Multi-modality Analysis
 * Yuan, H.☯︎, Yu, K.☯︎, Xie, F.☯︎ & Liu, M. (2024). Automated Machine Learning with Interpretation: A Systematic Review of Methodologies and Applications in Healthcare. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Liu, M., Li, S., Yuan, H., ... & Liu, N. (2023). Handling missing values in healthcare data: A systematic review of deep learning-based imputation techniques. *Artificial Intelligence in Medicine*. ([Paper](http://han-yuan-med.github.io/files/Handling missing values in healthcare data A systematic review of deep learning-based imputation techniques.pdf))
 
