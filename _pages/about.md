@@ -21,12 +21,6 @@ Thank you for visiting my academic website. I invite you to explore the publicat
 * Research Scholar, Quantitative Biomedicine, University of Zurich
 * Consultant, Epidemiology & Biostatistics, Harvard University
 
-# Professional Experience
-* Data Scientist (Internship), University Hospital Zurich
-* Biostatistician (Internship), Brigham Health
-* Macro Research Analyst (Internship), Founder Securities
-* Banking Advisor (Internship), Bank of China
-
 # Professional Societies & Editorial Services
 * PC Member, International Conference on Image, Video Processing and Artificial Intelligence
 * Referee, Expert Systems With Applications (IF: 8.5, JCR: Q1)
