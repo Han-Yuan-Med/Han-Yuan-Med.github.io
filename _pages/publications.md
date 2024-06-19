@@ -26,7 +26,7 @@ author_profile: true
 * Zhao, Y.☯︎, Yuan, H.☯︎ & Wu, Y. (2021). Prediction of Adverse Drug Reaction using Machine Learning Based on an Imbalanced Electronic Medical Records Dataset. *International Conference on Medical and Health Informatics, Full Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Prediction of Adverse Drug Reaction using Machine Learning and Deep Learning Based on an Imbalanced Electronic Medical Records Dataset.pdf))
 
 # Multi-modality Analysis
-* To be updated.
+* In progress.
 
 # General Machine Learning
 * Kang, L., … Yuan, H. & Zhu, C. (2024). Approximate Policy Iteration with Deep Minimax Average Bellman Error Minimization. *IEEE Transactions on Neural Networks and Learning Systems*. ([Paper](http://han-yuan-med.github.io/files/Approximate Policy Iteration With Deep Minimax Average Bellman Error Minimization.pdf))
