@@ -29,40 +29,40 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>08/2024: A paper got accepted to J. Biomed. Inform. (IF: TBD, JCR: TBD).</li>
-  <li>07/2024: Two papers got accepted to Med. Adv. (IF: TBD, JCR: TBD).</li>
+  <li>08/2024: A paper was published in J. Biomed. Inform. (IF: TBD, JCR: TBD).</li>
+  <li>07/2024: Two papers were published in Med. Adv. (IF: TBD, JCR: TBD).</li>
   <li>05/2024: Han completed X reviews for IVPAI, Full Paper Track.</li>
-  <li>12/2023: A paper got accepted to IEEE Trans. Neural Netw. Learn. Syst. (IF: TBD, JCR: TBD).</li>
+  <li>12/2023: A paper was published in IEEE Trans. Neural Netw. Learn. Syst. (IF: TBD, JCR: TBD).</li>
   <li>11/2023: Han made a poster presentation at AI Health Summit, Abstract Track.</li>
   <li>10/2023: Han completed a review for Expert Syst. Appl. (IF: 7.5, JCR: Q1).</li>
   <li>10/2023: Han completed three reviews for ML4H, Full Paper Track.</li>
-  <li>10/2023: A paper got accepted to J. Biomed. Inform. (IF: 4.0, JCR: Q2).</li>
-  <li>08/2023: A paper got accepted to Artif. Intell. Med. (IF: 6.1, JCR: Q1).</li>
+  <li>10/2023: A paper was published in J. Biomed. Inform. (IF: 4.0, JCR: Q2).</li>
+  <li>08/2023: A paper was published in Artif. Intell. Med. (IF: 6.1, JCR: Q1).</li>
   <li>08/2023: Han completed a review for Expert Syst. Appl. (IF: 8.5, JCR: Q1).</li>
   <li>07/2023: Han completed a review for Data Sci. J. (IF: TBD, JCR: TBD).</li>
   <li>07/2023: Han made a poster presentation at MIDL, Short Paper Track.</li>
-  <li>07/2023: Han started his research scholar at Duke University.</li>
-  <li>06/2023: A paper got accepted to STAR Protoc. (IF: 1.3, JCR: Q4).</li>
+  <li>07/2023: Han started his research scholar journey at Duke University.</li>
+  <li>06/2023: A paper was published in STAR Protoc. (IF: 1.3, JCR: Q4).</li>
   <li>05/2023: Han made two oral presentations at ICLR, Tiny Paper Track.</li>
   <li>03/2023: Han obtained the student accommodation awards of ICLR.</li>
   <li>12/2022: Han obtained the pre-doctoral research exchange awards.</li>
-  <li>05/2022: A paper got accepted to J. Biomed. Inform. (IF: 8.0, JCR: Q1).</li>
-  <li>02/2022: A paper got accepted to J. Biomed. Inform. (IF: 8.0, JCR: Q1).</li>
+  <li>05/2022: A paper was published in J. Biomed. Inform. (IF: 8.0, JCR: Q1).</li>
+  <li>02/2022: A paper was published in J. Biomed. Inform. (IF: 8.0, JCR: Q1).</li>
   <li>02/2022: Han obtained the runner-up of the annual student research symposium.</li>
-  <li>01/2022: A paper got accepted to J. Biomed. Inform. (IF: 8.0, JCR: Q1).</li>
-  <li>01/2022: Han started his research scholar at University of Zurich.</li>
+  <li>01/2022: A paper was published in J. Biomed. Inform. (IF: 8.0, JCR: Q1).</li>
+  <li>01/2022: Han started his research scholar journey at University of Zurich.</li>
   <li>06/2021: A R package was officially released in CRAN.</li>
-  <li>06/2021: A paper got accepted to J. Exp. Clin. Cancer Res. (IF: 12.7, JCR: Q1).</li>
+  <li>06/2021: A paper was published in J. Exp. Clin. Cancer Res. (IF: 12.7, JCR: Q1).</li>
   <li>02/2021: Han made an oral presentation at ICMHI, Full Paper Track.</li>
-  <li>10/2020: A paper got accepted to Front. Oncol. (IF: 6.2, JCR: Q2).</li>
-  <li>09/2020: A paper got accepted to Int. J. Biostat. (IF: 1.0, JCR: Q4).</li>
+  <li>10/2020: A paper was published in Front. Oncol. (IF: 6.2, JCR: Q2).</li>
+  <li>09/2020: A paper was published in Int. J. Biostat. (IF: 1.0, JCR: Q4).</li>
   <li>08/2020: Han started his Ph.D. study at Duke-NUS Medical School.</li>
-  <li>07/2019: Han started his consultant at Harvard University.</li>
+  <li>07/2019: Han started his consultant journey at Harvard University.</li>
   <li>06/2019: Han obtained his double B.S. degrees with distinction.</li>
   <li>12/2018: Han obtained the 3rd prize of excellent undergraduate scholarship.</li>
   <li>12/2017: Han obtained the 1st prize of excellent undergraduate scholarship.</li>
-  <li>08/2017: Han started his analyst internship at Founder Securities.</li>
+  <li>08/2017: Han started his macro research analyst journey at Founder Securities.</li>
   <li>12/2016: Han obtained the 1st prize of excellent undergraduate scholarship.</li>
-  <li>08/2016: Han started his analyst internship at Bank of China.</li>
+  <li>08/2016: Han started his banking advisor journey at Bank of China.</li>
   <li>09/2015: Han started his undergraduate study at Nankai University.</li>
 </ul>
