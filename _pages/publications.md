@@ -26,7 +26,7 @@ author_profile: true
 * Zhao, Y.☯︎, Yuan, H.☯︎ & Wu, Y. (2021). Prediction of Adverse Drug Reaction using Machine Learning Based on an Imbalanced Electronic Medical Records Dataset. *International Conference on Medical and Health Informatics, Full Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Prediction of Adverse Drug Reaction using Machine Learning and Deep Learning Based on an Imbalanced Electronic Medical Records Dataset.pdf))
 
 # Multi-modality Analysis
-* In progress.
+* Li, Y., … Yuan, H., … & Ang, M. (2024). Long-term effect of Childhood Atropine Treatment on Choroidal Thickness using Deep Learning enabled Segmentation – The Atropine Treatment Long-term Assessment Study. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 
 # General Machine Learning
 * Kang, L., … Yuan, H. & Zhu, C. (2024). Approximate Policy Iteration with Deep Minimax Average Bellman Error Minimization. *IEEE Transactions on Neural Networks and Learning Systems*. ([Paper](http://han-yuan-med.github.io/files/Approximate Policy Iteration With Deep Minimax Average Bellman Error Minimization.pdf))
