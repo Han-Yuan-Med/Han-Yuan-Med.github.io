@@ -33,7 +33,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>08/2024: A paper was published in J. Biomed. Inform. (IF: TBD, JCR: TBD).</li>
   <li>07/2024: A project was spotlighted by Duke-NUS news.</li>
   <li>07/2024: Two papers were published in Med. Adv. (IF: TBD, JCR: TBD).</li>
-  <li>05/2024: Han completed X reviews for IVPAI, Full Paper Track.</li>
+  <li>05/2024: Han completed 3 reviews for IVPAI, Full Paper Track.</li>
   <li>12/2023: A paper was published in IEEE Trans. Neural Netw. Learn. Syst. (IF: TBD, JCR: TBD).</li>
   <li>11/2023: Han made a poster presentation at AI Health Summit, Abstract Track.</li>
   <li>10/2023: Han completed a review for Expert Syst. Appl. (IF: 7.5, JCR: Q1).</li>
