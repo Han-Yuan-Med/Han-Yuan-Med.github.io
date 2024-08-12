@@ -35,6 +35,8 @@ author_profile: true
 * Liu, M., Ning Y., Yuan, H., … & Liu, N. (2022). Balanced background and explanation data are needed in explaining deep learning models with SHAP: An empirical study on clinical decision making. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/Balanced background and explanation data are needed in explaining deep learning models with SHAP An empirical study on clinical decision making.pdf))
 
 # Review and Perspective
+* Yuan, H. (2024). Toward Real-world Deployment of Machine Learning for Healthcare: External Validation, Continual Monitoring, and Randomized Clinical Trials. *Health Care Science*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
+* Yuan, H. (2024). Clinical Decision Making: Evolving from Hypothetico-deductive Model to Knowledge-enhanced Machine Learning. *Medicine Advances*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Yuan, H.☯︎, Yu, K.☯︎, Xie, F.☯︎ & Liu, M. (2024). Automated Machine Learning with Interpretation: A Systematic Review of Methodologies and Applications in Healthcare. *Medicine Advances*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Yuan, H., … & Fan, Z. (2024). Human-in-the-loop Machine Learning for Healthcare: Current Progress and Future Opportunities in Electronic Health Records. *Medicine Advances*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Liu, M., Li, S., Yuan, H., ... & Liu, N. (2023). Handling missing values in healthcare data: A systematic review of deep learning-based imputation techniques. *Artificial Intelligence in Medicine*. ([Paper](http://han-yuan-med.github.io/files/Handling missing values in healthcare data A systematic review of deep learning-based imputation techniques.pdf))
