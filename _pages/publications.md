@@ -8,8 +8,6 @@ author_profile: true
 * Yuan, H.☯︎, Hong, C.☯︎, ... & Liu, N. (2024). Clinical Domain Knowledge-derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification. *Journal of Biomedical Informatics*. ([Paper](http://han-yuan-med.github.io/files/Clinical domain knowledge-derived template improves post hoc AI explanations in pneumothorax classification.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
 * Yuan, H.☯︎, Hong, C.☯︎, ... & Liu, N. (2024). Leveraging Anatomical Constraints with Uncertainty for Pneumothorax Segmentation. *Health Care Science*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/constrained-learning))
 * Yuan, H. & Hong, C. (2024). Foundation Model Makes Clustering A Better Initialization For Cold-Start Active Learning. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/Foundation Model Makes Clustering A Better Initialization For Cold-Start Active Learning.pdf), [Code](https://github.com/Han-Yuan-Med/foundation-model))
-* Li, Y., … Yuan, H., … & Ang, M. (2024). Effect of Childhood Atropine Treatment on Adult Choroidal Thickness using Sequential Deep Learning enabled Segmentation – The Atropine Treatment Long-term Assessment Study. *Asia-Pacific Journal of Ophthalmology (Under Review)*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
-* Li, Y., … Yuan, H., … & Ang, M. (2024). Deep Learning Algorithms to Predict Response and Effect on Adult High Myopia in the Atropine Treatment Long-term Assessment Study. *In Preparation*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Yuan, H., Jiang, P. & Zhao, G. (2023). Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier. *Medical Imaging with Deep Learning, Short Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
 
 # Tabular Data Analysis
@@ -28,7 +26,8 @@ author_profile: true
 * Zhao, Y.☯︎, Yuan, H.☯︎ & Wu, Y. (2021). Prediction of Adverse Drug Reaction using Machine Learning Based on an Imbalanced Electronic Medical Records Dataset. *International Conference on Medical and Health Informatics, Full Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Prediction of Adverse Drug Reaction using Machine Learning and Deep Learning Based on an Imbalanced Electronic Medical Records Dataset.pdf))
 
 # Multi-modality Analysis
-* Li, Y., … Yuan, H., … & Ang, M. (2024). Long-term effect of Childhood Atropine Treatment on Choroidal Thickness using Deep Learning enabled Segmentation – The Atropine Treatment Long-term Assessment Study. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
+* Li, Y., … Yuan, H., … & Ang, M. (2024). Effect of Childhood Atropine Treatment on Adult Choroidal Thickness using Sequential Deep Learning enabled Segmentation – The Atropine Treatment Long-term Assessment Study. *Asia-Pacific Journal of Ophthalmology (Under Review)*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
+* Li, Y., … Yuan, H., … & Ang, M. (2024). Deep Learning Algorithms to Predict Response and Effect on Adult High Myopia in the Atropine Treatment Long-term Assessment Study. *In Preparation*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 
 # General Machine Learning
 * Kang, L., … Yuan, H. & Zhu, C. (2024). Approximate Policy Iteration with Deep Minimax Average Bellman Error Minimization. *IEEE Transactions on Neural Networks and Learning Systems*. ([Paper](http://han-yuan-med.github.io/files/Approximate Policy Iteration With Deep Minimax Average Bellman Error Minimization.pdf))
