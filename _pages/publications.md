@@ -26,7 +26,7 @@ author_profile: true
 * Zhao, Y.☯︎, Yuan, H.☯︎ & Wu, Y. (2021). Prediction of Adverse Drug Reaction using Machine Learning Based on an Imbalanced Electronic Medical Records Dataset. *International Conference on Medical and Health Informatics, Full Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Prediction of Adverse Drug Reaction using Machine Learning and Deep Learning Based on an Imbalanced Electronic Medical Records Dataset.pdf))
 
 # Multi-modality Analysis
-* Li, Y., … Yuan, H., … & Ang, M. (2024). Effect of Childhood Atropine Treatment on Adult Choroidal Thickness using Sequential Deep Learning enabled Segmentation – The Atropine Treatment Long-term Assessment Study. *Asia-Pacific Journal of Ophthalmology (Under Review)*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
+* Li, Y., … Yuan, H., … & Ang, M. (2024). Effect of Childhood Atropine Treatment on Adult Choroidal Thickness using Sequential Deep Learning enabled Segmentation – The Atropine Treatment Long-term Assessment Study. *Asia-Pacific Journal of Ophthalmology*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Li, Y., … Yuan, H., … & Ang, M. (2024). Deep Learning Algorithms to Predict Response and Effect on Adult High Myopia in the Atropine Treatment Long-term Assessment Study. *In Preparation*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 
 # General Machine Learning
