@@ -29,7 +29,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>09/2024: A papers was published in Med. Adv. (IF: TBD, JCR: TBD).</li>
+  <li>10/2024: A papers was published in Med. Adv. (IF: TBD, JCR: TBD).</li>
   <li>09/2024: Two papers were published in Health Care Sci. (IF: TBD, JCR: TBD).</li>
   <li>08/2024: A paper was published in J. Biomed. Inform. (IF: TBD, JCR: TBD).</li>
   <li>07/2024: A project was spotlighted by Duke-NUS news.</li>
