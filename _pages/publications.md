@@ -11,7 +11,7 @@ author_profile: true
 * Liu, M., Ning Y., Yuan, H., … & Liu, N. (2022). Balanced background and explanation data are needed in explaining deep learning models with SHAP: An empirical study on clinical decision making. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/Balanced background and explanation data are needed in explaining deep learning models with SHAP An empirical study on clinical decision making.pdf))
 
 # Multi-modality Analysis
-* Li, Y., … Yuan, H., … & Ang, M. (2024). Effect of Childhood Atropine Treatment on Adult Choroidal Thickness using Sequential Deep Learning enabled Segmentation – The Atropine Treatment Long-term Assessment Study. *Asia-Pacific Journal of Ophthalmology*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
+* Li, Y., … Yuan, H., … & Ang, M. (2024). Effect of Childhood Atropine Treatment on Adult Choroidal Thickness Using Sequential Deep Learning-Enabled Segmentation. *Asia-Pacific Journal of Ophthalmology*. ([Paper](http://han-yuan-med.github.io/files/Effect of Childhood Atropine Treatment on Adult Choroidal Thickness Using Sequential Deep Learning-Enabled Segmentation.pdf))
 * Li, Y., … Yuan, H., … & Ang, M. (2024). Deep Learning Algorithms to Predict Response and Effect on Adult High Myopia in the Atropine Treatment Long-term Assessment Study. *In Preparation*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Yuan, H.☯︎, Yu, K.☯︎, Xie, F.☯︎, ... & Sun, S. (2024). Automated Machine Learning with Interpretation: A Systematic Review of Methodologies and Applications in Healthcare. *Medicine Advances*. ([Paper](http://han-yuan-med.github.io/files/Automated machine learning with interpretation A systematic review of methodologies and applications in healthcare.pdf))
 
