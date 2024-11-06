@@ -24,6 +24,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # Professional Societies & Editorial Services
 * PC Member, International Conference on Image, Video Processing & Artificial Intelligence
 * Referee, Expert Systems With Applications
+* Referee, Journal of Medical Internet Research
 * Referee, Data Science Journal
 * Referee, Machine Learning for Health Symposium
 
