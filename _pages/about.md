@@ -30,6 +30,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li>12/2024: Han completed a review for J. Med. Internet Res.</li>
   <li>11/2024: A paper was published in iRadiol.</li>
   <li>10/2024: A paper was published in Asia-Pac. J. Ophthalmol.</li>
   <li>10/2024: A paper was published in Med. Adv.</li>
