@@ -4,7 +4,12 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# Computer Vision
+# Multi-modality
+* Li, Y., … Yuan, H., … & Ang, M. (2024). Effect of Childhood Atropine Treatment on Adult Choroidal Thickness Using Sequential Deep Learning-Enabled Segmentation. *Asia-Pacific Journal of Ophthalmology*. ([Paper](http://han-yuan-med.github.io/files/Effect of Childhood Atropine Treatment on Adult Choroidal Thickness Using Sequential Deep Learning-Enabled Segmentation.pdf))
+* Li, Y., … Yuan, H., … & Ang, M. (2024). Deep Learning Algorithms to Predict Response and Effect on Adult High Myopia in the Atropine Treatment Long-term Assessment Study. *In Preparation*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
+* Yuan, H.☯︎, Yu, K.☯︎, Xie, F.☯︎, ... & Sun, S. (2024). Automated Machine Learning with Interpretation: A Systematic Review of Methodologies and Applications in Healthcare. *Medicine Advances*. ([Paper](http://han-yuan-med.github.io/files/Automated machine learning with interpretation A systematic review of methodologies and applications in healthcare.pdf))
+
+# Medical Image Analysis
 * Yuan, H. (2025). Anatomic Boundary-aware Explanation for Convolutional Neural Networks in Diagnostic Radiology. *iRadiology*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/constrained-explanation))
 * Yuan, H.☯︎, Hong, C.☯︎, ... & Liu, N. (2024). Clinical Domain Knowledge-derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification. *Journal of Biomedical Informatics*. ([Paper](http://han-yuan-med.github.io/files/Clinical domain knowledge-derived template improves post hoc AI explanations in pneumothorax classification.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
 * Yuan, H.☯︎, Hong, C.☯︎, ... & Liu, N. (2024). Leveraging Anatomical Constraints with Uncertainty for Pneumothorax Segmentation. *Health Care Science*. ([Paper](http://han-yuan-med.github.io/files/.pdf), [Code](https://github.com/Han-Yuan-Med/constrained-learning))
@@ -12,9 +17,13 @@ author_profile: true
 * Zhu, M., Liu, M., Yuan, H., … & Liu, N. (2024). Clinical Knowledge-integrated AI Towards Gender Fairness in Skin Cancer Diagnosis. *arXiv*. ([Paper](http://han-yuan-med.github.io/files/Attention-Guided Fair AI Modelling for Skin Cancer Diagnosis.pdf), [Code](https://github.com/))
 * Yuan, H., Jiang, P. & Zhao, G. (2023). Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier. *Medical Imaging with Deep Learning, Short Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier.pdf), [Code](https://github.com/Han-Yuan-Med/template-explanation))
 
-# Natural Language Processing
+# Clinical Text Mining
 * Yuan, H. (2025). Agentic Large Language Models for Healthcare: Current Progress and Future Opportunities. *Medicine Advances*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Zhao, Y.☯︎, Yuan, H.☯︎ & Wu, Y. (2021). Prediction of Adverse Drug Reaction using Machine Learning Based on an Imbalanced Electronic Medical Records Dataset. *International Conference on Medical and Health Informatics, Full Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Prediction of Adverse Drug Reaction using Machine Learning and Deep Learning Based on an Imbalanced Electronic Medical Records Dataset.pdf))
+
+# Reinforcement Learning
+* Kang, L., … Yuan, H. & Zhu, C. (2024). Approximate Policy Iteration with Deep Minimax Average Bellman Error Minimization. *IEEE Transactions on Neural Networks and Learning Systems*. ([Paper](http://han-yuan-med.github.io/files/Approximate Policy Iteration With Deep Minimax Average Bellman Error Minimization.pdf))
+* Kang, L., Yuan, H. & Zhu C. (2023). Error Analysis of Fitted Q-iteration with ReLU-activated Deep Neural Networks. *International Conference on Learning Representations, Tiny Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Error Analysis of Fitted Q-iteration with ReLU-Activated Deep Neural Networks.pdf))
 
 # Structured Learning
 * Yuan, H. (2025). Overcoming Computational Resource Limitations in Deep Learning for Healthcare: Strategies Targeting Data, Model, and Computing. *Medicine Advances*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
@@ -35,14 +44,5 @@ author_profile: true
 * Xie, F., Ning Y., Yuan, H., ... & Liu, N. (2021). Package 'AutoScore': An Interpretable Machine Learning-Based Automatic Clinical Score Generator. *R Package*. ([Paper](http://han-yuan-med.github.io/files/Package AutoScore.pdf), [Code](https://github.com/nliulab/AutoScore))
 * Miao, C.☯︎, Yu, A.☯︎, Yuan, H.☯︎, ... & Wang, Z. (2020). Effect of Enhanced Recovery After Surgery on Postoperative Recovery and Quality of Life in Patients Undergoing Laparoscopic Partial Nephrectomy. *Frontiers in Oncology*. ([Paper](http://han-yuan-med.github.io/files/Effect of Enhanced Recovery After Surgery on Postoperative Recovery and Quality of Life in Patients Undergoing Laparoscopic Partial Nephrectomy.pdf))
 * Zhang, J., Sun, Z., Yuan, H. & Wang, M. (2020). Alternatives to the Kaplan-Meier estimator of progression-free survival. *The International Journal of Biostatistics*. ([Paper](http://han-yuan-med.github.io/files/Alternatives to the Kaplan–Meier estimator of progression-free survival.pdf))
-
-# Multi-modality
-* Li, Y., … Yuan, H., … & Ang, M. (2024). Effect of Childhood Atropine Treatment on Adult Choroidal Thickness Using Sequential Deep Learning-Enabled Segmentation. *Asia-Pacific Journal of Ophthalmology*. ([Paper](http://han-yuan-med.github.io/files/Effect of Childhood Atropine Treatment on Adult Choroidal Thickness Using Sequential Deep Learning-Enabled Segmentation.pdf))
-* Li, Y., … Yuan, H., … & Ang, M. (2024). Deep Learning Algorithms to Predict Response and Effect on Adult High Myopia in the Atropine Treatment Long-term Assessment Study. *In Preparation*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
-* Yuan, H.☯︎, Yu, K.☯︎, Xie, F.☯︎, ... & Sun, S. (2024). Automated Machine Learning with Interpretation: A Systematic Review of Methodologies and Applications in Healthcare. *Medicine Advances*. ([Paper](http://han-yuan-med.github.io/files/Automated machine learning with interpretation A systematic review of methodologies and applications in healthcare.pdf))
-
-# Reinforcement Learning
-* Kang, L., … Yuan, H. & Zhu, C. (2024). Approximate Policy Iteration with Deep Minimax Average Bellman Error Minimization. *IEEE Transactions on Neural Networks and Learning Systems*. ([Paper](http://han-yuan-med.github.io/files/Approximate Policy Iteration With Deep Minimax Average Bellman Error Minimization.pdf))
-* Kang, L., Yuan, H. & Zhu C. (2023). Error Analysis of Fitted Q-iteration with ReLU-activated Deep Neural Networks. *International Conference on Learning Representations, Tiny Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Error Analysis of Fitted Q-iteration with ReLU-Activated Deep Neural Networks.pdf))
 
 ☯︎ Equal Contribution
