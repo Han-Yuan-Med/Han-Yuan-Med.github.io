@@ -30,12 +30,14 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>01/2025: Two papers were published in Med. Adv.</li>
-  <li>11/2024: Two papers were published in iRadiol.</li>
-  <li>12/2024: Han completed a review for J. Med. Internet Res.</li>
+  <li>04/2025: Two papers were published in Med. Adv.</li>
+  <li>02/2025: Two papers were published in iRadiol.</li>
+  <li>12/2024: A paper was published in Med. Adv.</li>
+  <li>12/2024: A paper was published in Health Care Sci.</li>
+  <li>11/2024: Han completed a review for J. Med. Internet Res.</li>
   <li>10/2024: A paper was published in Asia-Pac. J. Ophthalmol.</li>
-  <li>10/2024: A paper was published in Med. Adv.</li>
-  <li>09/2024: Two papers were published in Health Care Sci.</li>
+  <li>09/2024: Han completed his oral defense of Ph.D. thesis.</li>
+  <li>09/2024: A paper was published in Health Care Sci.</li>
   <li>08/2024: A paper was published in J. Biomed. Inform.</li>
   <li>07/2024: A project was spotlighted by Duke-NUS news.</li>
   <li>07/2024: Two papers were published in Med. Adv.</li>
