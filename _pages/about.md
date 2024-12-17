@@ -36,6 +36,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>01/2025: A paper was published in BMC Med. Res. Methodol.</li>
   <li>12/2024: A paper was published in Med. Adv.</li>
   <li>12/2024: A paper was published in Health Care Sci.</li>
+  <li>11/2024: Han completed a review for Sci. Rep.</li>
   <li>11/2024: Han completed a review for J. Med. Internet Res.</li>
   <li>10/2024: A paper was published in Asia-Pac. J. Ophthalmol.</li>
   <li>09/2024: Han completed his oral defense of Ph.D. thesis.</li>
