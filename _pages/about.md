@@ -26,8 +26,9 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 * Referee, Expert Systems With Applications
 * Referee, Journal of Medical Internet Research
 * Referee, Scientific Reports
-* Referee, Frontiers in Digital Health
 * Referee, Data Science Journal
+* Referee, Frontiers in Digital Health
+* Referee, BMC Medical Informatics and Decision Making
 * Referee, BMC Cardiovascular Disorders
 * Referee, Machine Learning for Health Symposium
 
@@ -37,11 +38,12 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>04/2025: A papers was published in Med. Adv.</li>
   <li>03/2025: Two papers were published in Med. Adv.</li>
   <li>01/2025: A papers was published in iRadiol.</li>
+  <li>01/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
   <li>01/2025: Han completed a review for Front. Digit. Health.</li>
   <li>12/2024: A paper was published in Health Care Sci.</li>
   <li>12/2024: A paper was published in BMC Med. Res. Methodol.</li>
   <li>12/2024: A paper was published in Med. Adv.</li>
-  <li>12/2024: A papers was published in iRadiol.</li>
+  <li>12/2024: A paper was published in iRadiol.</li>
   <li>12/2024: Han completed a review for BMC Cardiovasc. Disord.</li>
   <li>11/2024: Han completed a review for Sci. Rep.</li>
   <li>11/2024: Han completed a review for J. Med. Internet Res.</li>
