@@ -15,7 +15,7 @@ author_profile: true
 # Natural Language Processing
 * Yuan, H. (2025). Agentic Large Language Models for Healthcare: Current Progress and Future Opportunities. *Medicine Advances*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
 * Yuan, H. (2025). Toward Comprehensive Evaluation of Medical Text Generation by Large Language Models (LLMs): Programmatic Metrics, Human Assessment, and LLMs Judgment. *Medicine Advances*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
-* Yuan, H. (2024). Natural Language Processing for Chest X-ray Report in the Transformer Era: BERT-like Encoder for Comprehension and GPT-like Decoder for Generation. *iRadiology*. ([Paper](http://han-yuan-med.github.io/files/.pdf))
+* Yuan, H. (2025). Natural Language Processing for Chest X-ray Report in the Transformer Era: BERT-like Encoder for Comprehension and GPT-like Decoder for Generation. *iRadiology*. ([Paper](http://han-yuan-med.github.io/files/Natural language processing for chest X‐ray reports in the transformer era BERT‐like encoders for comprehension and GPT‐like decoders for generation.pdf))
 * Zhao, Y.☯︎, Yuan, H.☯︎ & Wu, Y. (2021). Prediction of Adverse Drug Reaction using Machine Learning Based on an Imbalanced Electronic Medical Records Dataset. *International Conference on Medical and Health Informatics, Full Paper Track*. ([Paper](http://han-yuan-med.github.io/files/Prediction of Adverse Drug Reaction using Machine Learning and Deep Learning Based on an Imbalanced Electronic Medical Records Dataset.pdf))
 
 # Multi-modality
