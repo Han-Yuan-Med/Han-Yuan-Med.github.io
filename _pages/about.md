@@ -24,12 +24,14 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # Professional Societies & Editorial Services
 * PC Member, International Conference on Image, Video Processing & Artificial Intelligence
 * Referee, Expert Systems With Applications
+* Referee, Journal of Big Data
 * Referee, Journal of Medical Internet Research
 * Referee, Scientific Reports
 * Referee, Data Science Journal
 * Referee, Frontiers in Digital Health
 * Referee, BMC Medical Informatics and Decision Making
 * Referee, BMC Medical Imaging
+* Referee, BMC Anesthesiology
 * Referee, BMC Cardiovascular Disorders
 * Referee, Machine Learning for Health Symposium
 
@@ -38,6 +40,8 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>06/2025: A papers was published in Health Care Sci.</li>
   <li>04/2025: A papers was published in Med. Adv.</li>
   <li>03/2025: Two papers were published in Med. Adv.</li>
+  <li>02/2025: Han completed a review for J. Big Data.</li>
+  <li>02/2025: Han completed a review for BMC Anesthesiol.
   <li>01/2025: A papers was published in iRadiol.</li>
   <li>01/2025: Han completed a review for BMC Med. Imaging.</li>
   <li>01/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
