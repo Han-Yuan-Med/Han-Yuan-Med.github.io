@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Han. Throughout my journey, I have been driven by a passion for advancing knowledge in healthcare. I am particularly interested in the intersection of statistics and machine intelligence, and I strive to develop innovative methodologies that inform evidence-based decision-making. I also have a keen interest in the latest breakthroughs in computer vision and natural language processing.
+Hi! I am Han. Throughout my academic journey, I have been driven by a passion for advancing knowledge in finance and healthcare. I am particularly interested in the intersection of statistics and machine intelligence, and I strive to develop innovative methodologies that inform evidence-based decision-making. I also have a keen interest in the latest breakthroughs in computer vision and natural language processing.
 
 Also, the idea of traveling✈️, packing my bags🧳, and disappearing to someplace new📸, lives inside my brain all the time🧠. I have journeyed to over 20 countries🧭and have been spellbound by the surreal natural wonders🌄, including [rushing while clear river](/files/travel/river.jpg)🐟flowing from [sapphire lake](/files/travel/lake.jpg)🦢, [the blue-burning](/files/travel/blue_fire.jpg)🔥or [matcha pudding](/files/travel/matcha.jpg)🍵-like [volcano](/files/travel/volcano.jpg)🌋, [the glacier](/files/travel/glacier.jpg)🧊at the roof🔝or [the end](/files/travel/earth_end.jpg)🔚of the continent🌎, [the pink ocean](/files/travel/pink_lake.jpg)🦩in [the barren saline land](/files/travel/barren.jpg)🌵, [the black sand beach](/files/travel/black_beach.jpg)🐚with [crashing waves](/files/travel/waves.jpg)🌊, and [the auroras](/files/travel/aurora.jpg)🌌[dancing across the skies](/files/travel/aurora_dancing.jpg)🌠. 
 
@@ -25,14 +25,15 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 * PC Member, International Conference on Image, Video Processing & Artificial Intelligence
 * Referee, Expert Systems With Applications
 * Referee, Journal of Big Data
-* Referee, Journal of Medical Internet Research
-* Referee, Scientific Reports
 * Referee, Data Science Journal
+* Referee, Scientific Reports
+* Referee, Journal of Medical Internet Research
 * Referee, Frontiers in Digital Health
 * Referee, BMC Medical Informatics and Decision Making
 * Referee, BMC Medical Imaging
 * Referee, BMC Anesthesiology
 * Referee, BMC Cardiovascular Disorders
+* Referee, BMC Infectious Diseases
 * Referee, Machine Learning for Health Symposium
 
 # News
@@ -40,6 +41,9 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>06/2025: A papers was published in Health Care Sci.</li>
   <li>04/2025: A papers was published in Med. Adv.</li>
   <li>03/2025: Two papers were published in Med. Adv.</li>
+  <li>03/2025: Han completed a review for BMC Med. Imaging.</li>
+  <li>03/2025: Han completed a review for BMC Infect. Dis.</li>
+  <li>02/2025: Han completed a review for Sci. Rep.</li>
   <li>02/2025: Han completed a review for J. Big Data.</li>
   <li>02/2025: Han completed a review for BMC Anesthesiol.
   <li>01/2025: A papers was published in iRadiol.</li>
