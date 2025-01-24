@@ -17,32 +17,34 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 * Ph.D., Biostatistics & Health Data Science, Duke-NUS Medical School
 * B.S., Mathematics & Applied Mathematics, Nankai University
 * B.S., Biotechnology, Nankai University
-* Research Scholar, Biostatistics & Bioinformatics, Duke University
-* Research Scholar, Quantitative Biomedicine, University of Zurich
+* Researcher, Biostatistics & Bioinformatics, Duke University
+* Researcher, Quantitative Biomedicine, University of Zurich
 * Consultant, Epidemiology & Biostatistics, Harvard University
 
 # Professional Societies & Editorial Services
 * PC Member, International Conference on Image, Video Processing & Artificial Intelligence
-* Referee, Expert Systems With Applications
-* Referee, Journal of Big Data
+* Referee, BMC Medical Research Methodology (JCR Q1)
+* Referee, Expert Systems With Applications (JCR Q1)
+* Referee, Frontiers in Digital Health (JCR Q1)
+* Referee, Journal of Big Data (JCR Q1)
+* Referee, Journal of Medical Internet Research (JCR Q1)
+* Referee, Scientific Reports (JCR Q1)
+* Referee, BMC Infectious Diseases (JCR Q2)
+* Referee, BMC Anesthesiology (JCR Q2)
+* Referee, BMC Medical Imaging (JCR Q2)
+* Referee, BMC Medical Informatics and Decision Making (JCR Q2)
+* Referee, BMC Cardiovascular Disorders (JCR Q3)
 * Referee, Data Science Journal
-* Referee, Scientific Reports
-* Referee, Journal of Medical Internet Research
-* Referee, Frontiers in Digital Health
-* Referee, BMC Medical Informatics and Decision Making
-* Referee, BMC Medical Imaging
-* Referee, BMC Anesthesiology
-* Referee, BMC Cardiovascular Disorders
-* Referee, BMC Infectious Diseases
 * Referee, Machine Learning for Health Symposium
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>06/2025: A papers was published in Health Care Sci.</li>
-  <li>04/2025: A papers was published in Med. Adv.</li>
-  <li>03/2025: Two papers were published in Med. Adv.</li>
+  <li>03/2025: A papers was published in Med. Adv.</li>
   <li>03/2025: Han completed a review for BMC Med. Imaging.</li>
   <li>03/2025: Han completed a review for BMC Infect. Dis.</li>
+  <li>03/2025: Han completed a review for BMC Med. Res. Methodol.</li>
+  <li>03/2025: Two papers were published in Med. Adv.</li>
   <li>02/2025: Han completed a review for Sci. Rep.</li>
   <li>02/2025: Han completed a review for J. Big Data.</li>
   <li>02/2025: Han completed a review for BMC Anesthesiol.
