@@ -23,23 +23,25 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # Professional Societies & Editorial Services
 * PC Member, International Conference on Image, Video Processing & Artificial Intelligence
+* Referee, BioData Mining (JCR Q1)
 * Referee, BMC Medical Research Methodology (JCR Q1)
 * Referee, Expert Systems With Applications (JCR Q1)
 * Referee, Frontiers in Digital Health (JCR Q1)
 * Referee, Journal of Big Data (JCR Q1)
 * Referee, Journal of Medical Internet Research (JCR Q1)
 * Referee, Scientific Reports (JCR Q1)
-* Referee, BMC Infectious Diseases (JCR Q2)
-* Referee, BMC Anesthesiology (JCR Q2)
-* Referee, BMC Medical Imaging (JCR Q2)
-* Referee, BMC Medical Informatics and Decision Making (JCR Q2)
-* Referee, BMC Cardiovascular Disorders (JCR Q3)
+* Referee, BMC Anesthesiology
+* Referee, BMC Infectious Diseases
+* Referee, BMC Medical Imaging
+* Referee, BMC Medical Informatics and Decision Making
+* Referee, BMC Cardiovascular Disorders
 * Referee, Data Science Journal
 * Referee, Machine Learning for Health Symposium
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>06/2025: A papers was published in Health Care Sci.</li>
+  <li>03/2025: Han completed a review for BioData Min.
   <li>03/2025: A papers was published in Med. Adv.</li>
   <li>03/2025: Han completed a review for BMC Med. Imaging.</li>
   <li>03/2025: Han completed a review for BMC Infect. Dis.</li>
