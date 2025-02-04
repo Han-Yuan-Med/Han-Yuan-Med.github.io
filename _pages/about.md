@@ -24,6 +24,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # Professional Societies & Editorial Services
 * PC Member, International Conference on Image, Video Processing & Artificial Intelligence
 * Referee, BioData Mining (JCR Q1)
+* Referee, BMC Complementary Medicine and Therapies (JCR Q1)
 * Referee, BMC Medical Research Methodology (JCR Q1)
 * Referee, Expert Systems With Applications (JCR Q1)
 * Referee, Frontiers in Digital Health (JCR Q1)
@@ -41,8 +42,9 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>06/2025: A papers was published in Health Care Sci.</li>
-  <li>03/2025: Han completed a review for BioData Min.
-  <li>03/2025: A papers was published in Med. Adv.</li>
+  <li>04/2025: A papers was published in Med. Adv.</li>
+  <li>04/2025: Han completed a review for BioData Min.</li>
+  <li>04/2025: Han completed a review for BMC Complement. Med. Ther.</li>
   <li>03/2025: Han completed a review for BMC Med. Imaging.</li>
   <li>03/2025: Han completed a review for BMC Infect. Dis.</li>
   <li>03/2025: Han completed a review for BMC Med. Res. Methodol.</li>
@@ -50,14 +52,14 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>02/2025: Han completed a review for Sci. Rep.</li>
   <li>02/2025: Han completed a review for J. Big Data.</li>
   <li>02/2025: Han completed a review for BMC Anesthesiol.
-  <li>01/2025: A papers was published in iRadiol.</li>
+  <li>02/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
+  <li>01/2025: Two papers were published in iRadiol.</li>
   <li>01/2025: Han completed a review for BMC Med. Imaging.</li>
   <li>01/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
   <li>01/2025: Han completed a review for Front. Digit. Health.</li>
   <li>12/2024: A paper was published in Health Care Sci.</li>
   <li>12/2024: A paper was published in BMC Med. Res. Methodol.</li>
   <li>12/2024: A paper was published in Med. Adv.</li>
-  <li>12/2024: A paper was published in iRadiol.</li>
   <li>12/2024: Han completed a review for BMC Cardiovasc. Disord.</li>
   <li>11/2024: Han completed a review for Sci. Rep.</li>
   <li>11/2024: Han completed a review for J. Med. Internet Res.</li>
