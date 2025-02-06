@@ -30,6 +30,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 * Referee, Frontiers in Digital Health (JCR Q1)
 * Referee, Journal of Big Data (JCR Q1)
 * Referee, Journal of Medical Internet Research (JCR Q1)
+* Referee, npj Digital Medicine (JCR Q1)
 * Referee, Scientific Reports (JCR Q1)
 * Referee, BMC Anesthesiology
 * Referee, BMC Infectious Diseases
@@ -43,24 +44,25 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>06/2025: A papers was published in Health Care Sci.</li>
   <li>04/2025: A papers was published in Med. Adv.</li>
-  <li>04/2025: Han completed a review for BioData Min.</li>
-  <li>04/2025: Han completed a review for BMC Complement. Med. Ther.</li>
-  <li>03/2025: Han completed a review for BMC Med. Imaging.</li>
-  <li>03/2025: Han completed a review for BMC Infect. Dis.</li>
-  <li>03/2025: Han completed a review for BMC Med. Res. Methodol.</li>
   <li>03/2025: Two papers were published in Med. Adv.</li>
-  <li>02/2025: Han completed a review for Sci. Rep.</li>
-  <li>02/2025: Han completed a review for J. Big Data.</li>
-  <li>02/2025: Han completed a review for BMC Anesthesiol.
-  <li>02/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
+  <li>02/2025: Han completed a review for npj digit. med.</li>
+  <li>02/2025: Han completed a review for BioData Min.</li>
+  <li>02/2025: Han completed a review for BMC Complement. Med. Ther.</li>
+  <li>02/2025: Han completed a review for BMC Med. Imaging.</li>
+  <li>02/2025: Han completed a review for BMC Infect. Dis.</li>
+  <li>01/2025: Han completed a review for BMC Med. Res. Methodol.</li>
   <li>01/2025: Two papers were published in iRadiol.</li>
-  <li>01/2025: Han completed a review for BMC Med. Imaging.</li>
-  <li>01/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
-  <li>01/2025: Han completed a review for Front. Digit. Health.</li>
+  <li>01/2025: Han completed a review for Sci. Rep.</li>
+  <li>01/2025: Han completed a review for J. Big Data.</li>
+  <li>01/2025: Han completed a review for BMC Anesthesiol.
   <li>12/2024: A paper was published in Health Care Sci.</li>
   <li>12/2024: A paper was published in BMC Med. Res. Methodol.</li>
   <li>12/2024: A paper was published in Med. Adv.</li>
-  <li>12/2024: Han completed a review for BMC Cardiovasc. Disord.</li>
+  <li>12/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
+  <li>12/2025: Han completed a review for BMC Med. Imaging.</li>
+  <li>12/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
+  <li>11/2025: Han completed a review for Front. Digit. Health.</li>
+  <li>11/2024: Han completed a review for BMC Cardiovasc. Disord.</li>
   <li>11/2024: Han completed a review for Sci. Rep.</li>
   <li>11/2024: Han completed a review for J. Med. Internet Res.</li>
   <li>10/2024: A paper was published in Asia-Pac. J. Ophthalmol.</li>
