@@ -23,15 +23,15 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # Professional Societies & Editorial Services
 * PC Member, International Conference on Image, Video Processing & Artificial Intelligence
-* Referee, BioData Mining (JCR Q1)
-* Referee, BMC Complementary Medicine and Therapies (JCR Q1)
-* Referee, BMC Medical Research Methodology (JCR Q1)
-* Referee, Expert Systems With Applications (JCR Q1)
-* Referee, Frontiers in Digital Health (JCR Q1)
-* Referee, Journal of Big Data (JCR Q1)
-* Referee, Journal of Medical Internet Research (JCR Q1)
-* Referee, npj Digital Medicine (JCR Q1)
-* Referee, Scientific Reports (JCR Q1)
+* Referee, BioData Mining (JCR Q1 IF 4.0)
+* Referee, BMC Complementary Medicine and Therapies (JCR Q1 IF 3.6)
+* Referee, BMC Medical Research Methodology (JCR Q1 IF 6.5)
+* Referee, Expert Systems With Applications (JCR Q1 IF 7.5)
+* Referee, Frontiers in Digital Health (JCR Q1 IF 3.2)
+* Referee, Journal of Big Data (JCR Q1 IF 12.4)
+* Referee, Journal of Medical Internet Research (JCR Q1 IF 5.8)
+* Referee, npj Digital Medicine (JCR Q1 IF 15.2)
+* Referee, Scientific Reports (JCR Q1 IF 4.3)
 * Referee, BMC Anesthesiology
 * Referee, BMC Infectious Diseases
 * Referee, BMC Medical Imaging
