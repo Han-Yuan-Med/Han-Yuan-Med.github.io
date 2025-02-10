@@ -38,6 +38,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 * Referee, BMC Medical Informatics and Decision Making
 * Referee, BMC Cardiovascular Disorders
 * Referee, Data Science Journal
+* Referee, Health Care Science
 * Referee, Machine Learning for Health Symposium
 
 # News
@@ -45,7 +46,8 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>06/2025: A papers was published in Health Care Sci.</li>
   <li>04/2025: A papers was published in Med. Adv.</li>
   <li>03/2025: Two papers were published in Med. Adv.</li>
-  <li>02/2025: Han completed a review for npj digit. med.</li>
+  <li>02/2025: Han completed a review for npj Digit. Med.</li>
+  <li>02/2025: Han completed a review for Health Care Sci.</li>
   <li>02/2025: Han completed a review for BioData Min.</li>
   <li>02/2025: Han completed a review for BMC Complement. Med. Ther.</li>
   <li>02/2025: Han completed a review for BMC Med. Imaging.</li>
