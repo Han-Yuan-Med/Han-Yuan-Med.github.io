@@ -43,8 +43,8 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>06/2025: A papers was published in Health Care Sci.</li>
-  <li>04/2025: A papers was published in Med. Adv.</li>
+  <li>06/2025: A paper was published in Health Care Sci.</li>
+  <li>04/2025: A paper was published in Med. Adv.</li>
   <li>03/2025: Two papers were published in Med. Adv.</li>
   <li>02/2025: Han completed a review for npj Digit. Med.</li>
   <li>02/2025: Han completed a review for Health Care Sci.</li>
