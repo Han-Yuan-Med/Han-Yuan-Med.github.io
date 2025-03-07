@@ -44,13 +44,13 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>06/2025: A paper was published in Health Care Sci.</li>
-  <li>04/2025: Two papers were published in ICLR Workshop on Advances in Financial AI.</li>
+  <li>04/2025: Two papers were published in ICLR Workshop on Adv. in Financ. AI.</li>
   <li>04/2025: A paper was published in Med. Adv.</li>
+  <li>04/2025: Han completed a review for npj Digit. Med.</li>
+  <li>04/2025: Han completed a review for Health Care Sci.</li>
   <li>03/2025: Two papers were published in Med. Adv.</li>
-  <li>02/2025: Han completed a review for npj Digit. Med.</li>
-  <li>02/2025: Han completed a review for Health Care Sci.</li>
-  <li>02/2025: Han completed a review for BioData Min.</li>
-  <li>02/2025: Han completed a review for BMC Complement. Med. Ther.</li>
+  <li>03/2025: Han completed a review for BioData Min.</li>
+  <li>03/2025: Han completed a review for BMC Complement. Med. Ther.</li>
   <li>02/2025: Han completed a review for BMC Med. Imaging.</li>
   <li>02/2025: Han completed a review for BMC Infect. Dis.</li>
   <li>01/2025: Han completed a review for BMC Med. Res. Methodol.</li>
