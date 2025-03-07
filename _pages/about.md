@@ -44,6 +44,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>06/2025: A paper was published in Health Care Sci.</li>
+  <li>05/2024: Han completed five reviews for MLHC, Full Paper Track.</li>
   <li>04/2025: Two papers were published in ICLR Workshop on Adv. in Financ. AI.</li>
   <li>04/2025: A paper was published in Med. Adv.</li>
   <li>04/2025: Han completed a review for npj Digit. Med.</li>
