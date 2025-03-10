@@ -23,6 +23,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # Professional Societies & Editorial Services
 * PC Member, International Conference on Image, Video Processing & Artificial Intelligence
+* Referee, Artificial Intelligence Review (JCR Q1 IF 11.7)
 * Referee, BioData Mining (JCR Q1 IF 4.0)
 * Referee, BMC Complementary Medicine and Therapies (JCR Q1 IF 3.6)
 * Referee, BMC Medical Research Methodology (JCR Q1 IF 6.5)
@@ -43,15 +44,17 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>06/2025: A paper was published in Health Care Sci.</li>
   <li>05/2024: Han completed five reviews for MLHC, Full Paper Track.</li>
-  <li>04/2025: Two papers were published in ICLR Workshop on Adv. in Financ. AI.</li>
+  <li>05/2025: Han completed a review for Artif. Intell. Rev.</li>
+  <li>05/2025: Han completed a review for npj Digit. Med.</li>
   <li>04/2025: A paper was published in Med. Adv.</li>
+  <li>04/2025: A paper was published in Health Care Sci.</li>
   <li>04/2025: Han completed a review for npj Digit. Med.</li>
   <li>04/2025: Han completed a review for Health Care Sci.</li>
-  <li>03/2025: Two papers were published in Med. Adv.</li>
+  <li>03/2025: Two papers were published in ICLR Workshop on Adv. in Financ. AI.</li>
   <li>03/2025: Han completed a review for BioData Min.</li>
   <li>03/2025: Han completed a review for BMC Complement. Med. Ther.</li>
+  <li>02/2025: Two papers were published in Med. Adv.</li>
   <li>02/2025: Han completed a review for BMC Med. Imaging.</li>
   <li>02/2025: Han completed a review for BMC Infect. Dis.</li>
   <li>01/2025: Han completed a review for BMC Med. Res. Methodol.</li>
