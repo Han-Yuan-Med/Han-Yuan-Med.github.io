@@ -32,6 +32,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 * Referee, Journal of Big Data (JCR Q1 IF 12.4)
 * Referee, Journal of Medical Internet Research (JCR Q1 IF 5.8)
 * Referee, npj Digital Medicine (JCR Q1 IF 15.2)
+* Referee, Respiratory Research (JCR Q1 IF 5.3)
 * Referee, Scientific Reports (JCR Q1 IF 4.3)
 * Referee, BMC Anesthesiology
 * Referee, BMC Infectious Diseases
@@ -44,14 +45,14 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>05/2024: Han completed five reviews for MLHC, Full Paper Track.</li>
-  <li>05/2025: Han completed a review for Artif. Intell. Rev.</li>
-  <li>05/2025: Han completed a review for npj Digit. Med.</li>
-  <li>04/2025: A paper was published in Med. Adv.</li>
+  <li>05/2025: Han completed five reviews for MLHC, Full Paper Track.</li>
   <li>04/2025: A paper was published in Health Care Sci.</li>
-  <li>04/2025: Han completed a review for npj Digit. Med.</li>
+  <li>05/2025: Han completed a review for Artif. Intell. Rev.</li>
+  <li>04/2025: Han completed two reviews for npj Digit. Med.</li>
   <li>04/2025: Han completed a review for Health Care Sci.</li>
   <li>03/2025: Two papers were published in ICLR Workshop on Adv. in Financ. AI.</li>
+  <li>03/2025: A paper was published in Med. Adv.</li>
+  <li>03/2025: Han completed a review for Respir. Res.</li>
   <li>03/2025: Han completed a review for BioData Min.</li>
   <li>03/2025: Han completed a review for BMC Complement. Med. Ther.</li>
   <li>02/2025: Two papers were published in Med. Adv.</li>
