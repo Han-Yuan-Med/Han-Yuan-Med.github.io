@@ -22,26 +22,28 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 * Consultant, Epidemiology & Biostatistics, Harvard University
 
 # Professional Societies & Editorial Services
-* PC Member, International Conference on Image, Video Processing & Artificial Intelligence
-* Referee, Artificial Intelligence Review (JCR Q1 IF 11.7)
-* Referee, BioData Mining (JCR Q1 IF 4.0)
-* Referee, BMC Complementary Medicine and Therapies (JCR Q1 IF 3.6)
-* Referee, BMC Medical Research Methodology (JCR Q1 IF 6.5)
-* Referee, Expert Systems With Applications (JCR Q1 IF 7.5)
-* Referee, Frontiers in Digital Health (JCR Q1 IF 3.2)
-* Referee, Journal of Big Data (JCR Q1 IF 12.4)
-* Referee, Journal of Medical Internet Research (JCR Q1 IF 5.8)
-* Referee, npj Digital Medicine (JCR Q1 IF 15.2)
-* Referee, Respiratory Research (JCR Q1 IF 5.3)
-* Referee, Scientific Reports (JCR Q1 IF 4.3)
-* Referee, BMC Anesthesiology
-* Referee, BMC Infectious Diseases
-* Referee, BMC Medical Imaging
-* Referee, BMC Medical Informatics and Decision Making
-* Referee, BMC Cardiovascular Disorders
-* Referee, Data Science Journal
-* Referee, Health Care Science
-* Referee, Machine Learning for Health Symposium
+<ul style="width: auto; height: 300px; overflow: auto">
+  <li>PC Member, International Conference on Image, Video Processing & Artificial Intelligence</li>
+  <li>Referee, Artificial Intelligence Review (JCR Q1 IF 11.7)</li>
+  <li>Referee, BioData Mining (JCR Q1 IF 4.0)</li>
+  <li>Referee, BMC Complementary Medicine and Therapies (JCR Q1 IF 3.6)</li>
+  <li>Referee, BMC Medical Research Methodology (JCR Q1 IF 6.5)</li>
+  <li>Referee, Expert Systems With Applications (JCR Q1 IF 7.5)</li>
+  <li>Referee, Frontiers in Digital Health (JCR Q1 IF 3.2)</li>
+  <li>Referee, Journal of Big Data (JCR Q1 IF 12.4)</li>
+  <li>Referee, Journal of Medical Internet Research (JCR Q1 IF 5.8)</li>
+  <li>Referee, npj Digital Medicine (JCR Q1 IF 15.2)</li>
+  <li>Referee, Respiratory Research (JCR Q1 IF 5.3)</li>
+  <li>Referee, Scientific Reports (JCR Q1 IF 4.3)</li>
+  <li>Referee, BMC Anesthesiology</li>
+  <li>Referee, BMC Infectious Diseases</li>
+  <li>Referee, BMC Medical Imaging</li>
+  <li>Referee, BMC Medical Informatics and Decision Making</li>
+  <li>Referee, BMC Cardiovascular Disorders</li>
+  <li>Referee, Data Science Journal</li>
+  <li>Referee, Health Care Science</li>
+  <li>Referee, Machine Learning for Health Symposium</li>
+</ul>
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
