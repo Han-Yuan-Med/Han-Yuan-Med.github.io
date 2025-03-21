@@ -24,17 +24,18 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # Professional Societies & Editorial Services
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>PC Member, International Conference on Image, Video Processing & Artificial Intelligence</li>
-  <li>Referee, Artificial Intelligence Review (JCR Q1 IF 11.7)</li>
-  <li>Referee, BioData Mining (JCR Q1 IF 4.0)</li>
-  <li>Referee, BMC Complementary Medicine and Therapies (JCR Q1 IF 3.6)</li>
-  <li>Referee, BMC Medical Research Methodology (JCR Q1 IF 6.5)</li>
-  <li>Referee, Expert Systems With Applications (JCR Q1 IF 7.5)</li>
-  <li>Referee, Frontiers in Digital Health (JCR Q1 IF 3.2)</li>
-  <li>Referee, Journal of Big Data (JCR Q1 IF 12.4)</li>
-  <li>Referee, Journal of Medical Internet Research (JCR Q1 IF 5.8)</li>
-  <li>Referee, npj Digital Medicine (JCR Q1 IF 15.2)</li>
-  <li>Referee, Respiratory Research (JCR Q1 IF 5.3)</li>
-  <li>Referee, Scientific Reports (JCR Q1 IF 4.3)</li>
+  <li>Referee, Nature Partner Journal Digital Medicine (IF 15.2 JCR Q1)</li>  
+  <li>Referee, Journal of Big Data (IF 12.4  JCR Q1)</li>
+  <li>Referee, Artificial Intelligence Review (IF 11.7  JCR Q1)</li>
+  <li>Referee, IEEE Journal of Biomedical and Health Informatics (IF 7.7 JCR Q1)</li>
+  <li>Referee, Expert Systems With Applications (IF 7.5 JCR Q1)</li>
+  <li>Referee, BMC Medical Research Methodology (IF 6.5 JCR Q1)</li>
+  <li>Referee, Journal of Medical Internet Research (IF 5.8 JCR Q1)</li>
+  <li>Referee, Respiratory Research (IF 5.3 JCR Q1)</li>
+  <li>Referee, BioData Mining (IF 4.0 JCR Q1)</li>
+  <li>Referee, Scientific Reports (IF 4.3 JCR Q1)</li>
+  <li>Referee, BMC Complementary Medicine and Therapies (IF 3.6 JCR Q1)</li>
+  <li>Referee, Frontiers in Digital Health (IF 3.2 JCR Q1)</li>
   <li>Referee, BMC Anesthesiology</li>
   <li>Referee, BMC Infectious Diseases</li>
   <li>Referee, BMC Medical Imaging</li>
