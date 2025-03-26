@@ -27,6 +27,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>Referee, Nature Partner Journal Digital Medicine (IF 15.2 JCR Q1)</li>  
   <li>Referee, Journal of Big Data (IF 12.4  JCR Q1)</li>
   <li>Referee, Artificial Intelligence Review (IF 11.7  JCR Q1)</li>
+  <li>Referee, BMC Medicine (IF 8.8  JCR Q1)</li>
   <li>Referee, IEEE Journal of Biomedical and Health Informatics (IF 7.7 JCR Q1)</li>
   <li>Referee, Expert Systems With Applications (IF 7.5 JCR Q1)</li>
   <li>Referee, BMC Medical Research Methodology (IF 6.5 JCR Q1)</li>
