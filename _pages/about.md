@@ -49,9 +49,11 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>05/2025: Han completed a review for npj Digit. Med.</li>
+  <li>05/2025: Han completed two reviews for npj Digit. Med.</li>
   <li>05/2025: Han completed two reviews for MLHC, Full Paper Track.</li>
+  <li>05/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
   <li>04/2025: A paper was published in Health Care Sci.</li>
+  <li>04/2025: Han made an oral presentation at Health Data Science Symposium.</li>
   <li>04/2025: Han completed a review for Artif. Intell. Rev.</li>
   <li>04/2025: Han completed two reviews for npj Digit. Med.</li>
   <li>04/2025: Han completed a review for Health Care Sci.</li>
@@ -72,10 +74,10 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>12/2024: A paper was published in Health Care Sci.</li>
   <li>12/2024: A paper was published in BMC Med. Res. Methodol.</li>
   <li>12/2024: A paper was published in Med. Adv.</li>
-  <li>12/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
-  <li>12/2025: Han completed a review for BMC Med. Imaging.</li>
-  <li>12/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
-  <li>11/2025: Han completed a review for Front. Digit. Health.</li>
+  <li>12/2024: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
+  <li>12/2024: Han completed a review for BMC Med. Imaging.</li>
+  <li>12/2024: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
+  <li>11/2024: Han completed a review for Front. Digit. Health.</li>
   <li>11/2024: Han completed a review for BMC Cardiovasc. Disord.</li>
   <li>11/2024: Han completed a review for Sci. Rep.</li>
   <li>11/2024: Han completed a review for J. Med. Internet Res.</li>
@@ -87,7 +89,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>07/2024: Two papers were published in Med. Adv.</li>
   <li>05/2024: Han completed three reviews for IVPAI, Full Paper Track.</li>
   <li>12/2023: A paper was published in IEEE Trans. Neural Netw. Learn. Syst.</li>
-  <li>11/2023: Han made a poster presentation at AI Health Summit, Abstract Track.</li>
+  <li>11/2023: Han made a poster presentation at AI Health Summit.</li>
   <li>10/2023: Han completed a review for Expert Syst. Appl.</li>
   <li>10/2023: Han completed three reviews for ML4H, Full Paper Track.</li>
   <li>10/2023: A paper was published in J. Biomed. Inform.</li>
