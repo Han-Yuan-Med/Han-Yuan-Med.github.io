@@ -50,7 +50,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>08/2025: A paper was published in ACL.</li>
-  <li>06/2025: Han completed a review for npj Digit. Med.</li>
+  <li>06/2025: Han completed two reviews for npj Digit. Med.</li>
   <li>05/2025: Han completed two reviews for npj Digit. Med.</li>
   <li>05/2025: Han completed two reviews for MLHC, Full Paper Track.</li>
   <li>05/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
