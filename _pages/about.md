@@ -35,6 +35,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>Referee, Respiratory Research (IF 5.3 JCR Q1)</li>
   <li>Referee, BioData Mining (IF 4.0 JCR Q1)</li>
   <li>Referee, Scientific Reports (IF 4.3 JCR Q1)</li>
+  <li>Referee, PeerJ Computer Science (IF 3.8 JCR Q1)</li>
   <li>Referee, BMC Complementary Medicine and Therapies (IF 3.6 JCR Q1)</li>
   <li>Referee, Frontiers in Digital Health (IF 3.2 JCR Q1)</li>
   <li>Referee, BMC Anesthesiology</li>
