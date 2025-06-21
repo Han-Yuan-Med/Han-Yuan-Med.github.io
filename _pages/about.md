@@ -25,6 +25,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>PC Member, International Conference on Image, Video Processing & Artificial Intelligence</li>
   <li>Referee, Nature Partner Journal Digital Medicine (IF 15.2 JCR Q1)</li>  
+  <li>Referee, Nature Partner Journal Artificial Intelligence (IF TBD JCR TBD)</li>  
   <li>Referee, Journal of Big Data (IF 12.4  JCR Q1)</li>
   <li>Referee, Artificial Intelligence Review (IF 11.7  JCR Q1)</li>
   <li>Referee, BMC Medicine (IF 8.8  JCR Q1)</li>
@@ -52,7 +53,8 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>08/2025: A paper was published in ACL.</li>
   <li>06/2025: Han completed two reviews for npj Digit. Med.</li>
-  <li>05/2025: Han completed a review for PeerJ Comput. Sci.</li>
+  <li>06/2025: Han completed a review for npj Artif. Intell.</li>
+  <li>06/2025: Han completed a review for PeerJ Comput. Sci.</li>
   <li>05/2025: Han completed two reviews for npj Digit. Med.</li>
   <li>05/2025: Han completed two reviews for MLHC, Full Paper Track.</li>
   <li>05/2025: Han completed a review for BMC Med. Inform. Decis. Mak.</li>
