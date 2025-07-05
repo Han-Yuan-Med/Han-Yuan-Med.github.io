@@ -39,6 +39,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>Referee, PeerJ Computer Science (IF 3.8 JCR Q1)</li>
   <li>Referee, BMC Complementary Medicine and Therapies (IF 3.6 JCR Q1)</li>
   <li>Referee, Frontiers in Digital Health (IF 3.2 JCR Q1)</li>
+  <li>Referee, Discover Artificial Intelligence</li>
   <li>Referee, BMC Anesthesiology</li>
   <li>Referee, BMC Infectious Diseases</li>
   <li>Referee, BMC Medical Imaging</li>
@@ -52,6 +53,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>08/2025: A paper was published in ACL.</li>
+  <li>07/2025: Han completed two reviews for Discov. Artif. Intell.</li>
   <li>06/2025: Han completed two reviews for npj Digit. Med.</li>
   <li>06/2025: Han completed a review for npj Artif. Intell.</li>
   <li>06/2025: Han completed a review for PeerJ Comput. Sci.</li>
