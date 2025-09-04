@@ -56,6 +56,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>10/2025: A poster was presented at AAO, Abstract Track</li>
+  <li>09/2025: Han completed a review for npj Digit. Med.</li>
   <li>09/2025: Han completed a review for Sci. Rep.</li>
   <li>08/2025: A poster was presented at ACL, Long Paper Track.</li>
   <li>08/2025: Han completed a review for npj Health Syst.</li>
