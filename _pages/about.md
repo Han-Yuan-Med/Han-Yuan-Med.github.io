@@ -28,8 +28,9 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>Referee, Nature Partner Journal Artificial Intelligence (IF TBD JCR TBD)</li>  
   <li>Referee, Nature Partner Journal Health Systems (IF TBD JCR TBD)</li>  
   <li>Referee, Journal of Big Data (IF 12.4  JCR Q1)</li>
-  <li>Referee, Artificial Intelligence Review (IF 11.7  JCR Q1)</li>
-  <li>Referee, BMC Medicine (IF 8.8  JCR Q1)</li>
+  <li>Referee, Artificial Intelligence Review (IF 11.7 JCR Q1)</li>
+  <li>Referee, BMC Medicine (IF 8.8 JCR Q1)</li>
+  <li>Referee, Engineering Applications of Artificial Intelligence (IF 8.0 JCR Q1)</li>
   <li>Referee, IEEE Journal of Biomedical and Health Informatics (IF 7.7 JCR Q1)</li>
   <li>Referee, Expert Systems With Applications (IF 7.5 JCR Q1)</li>
   <li>Referee, BMC Medical Research Methodology (IF 6.5 JCR Q1)</li>
@@ -56,6 +57,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>10/2025: A poster was presented at AAO, Abstract Track</li>
+  <li>09/2025: Han completed a review for Eng. Appl. Artif. Intell.</li>
   <li>09/2025: Han completed a review for npj Digit. Med.</li>
   <li>09/2025: Han completed a review for Sci. Rep.</li>
   <li>08/2025: A poster was presented at ACL, Long Paper Track.</li>
