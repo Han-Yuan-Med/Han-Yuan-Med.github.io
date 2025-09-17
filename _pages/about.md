@@ -56,6 +56,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li>11/2025: An oral presentation was given at EMNLP Workshop on Financ. Tech.</li>
   <li>10/2025: A poster was presented at AAO, Abstract Track</li>
   <li>09/2025: A paper was published in EMNLP Workshop on Financ. Tech.</li>
   <li>09/2025: Han completed a review for Eng. Appl. Artif. Intell.</li>
