@@ -27,6 +27,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>Referee, Nature Partner Journal Digital Medicine (IF 15.2 JCR Q1)</li>  
   <li>Referee, Nature Partner Journal Artificial Intelligence (IF TBD JCR TBD)</li>  
   <li>Referee, Nature Partner Journal Health Systems (IF TBD JCR TBD)</li>  
+  <li>Referee, Genome Medicine (IF 13.8 JCR Q1)</li>
   <li>Referee, Journal of Big Data (IF 12.4  JCR Q1)</li>
   <li>Referee, Artificial Intelligence Review (IF 11.7 JCR Q1)</li>
   <li>Referee, BMC Medicine (IF 8.8 JCR Q1)</li>
@@ -57,6 +58,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>11/2025: An oral presentation was given at EMNLP Workshop on Financ. Tech.</li>
+  <li>11/2025: Han completed a review for Genome Med.</li>
   <li>10/2025: A poster was presented at AAO, Abstract Track.</li>
   <li>09/2025: Han completed a review for Eng. Appl. Artif. Intell.</li>
   <li>09/2025: Han completed a review for npj Digit. Med.</li>
