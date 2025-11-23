@@ -23,7 +23,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # Professional Societies & Editorial Services
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>PC Member, International Conference on Image, Video Processing & Artificial Intelligence</li>
+  <li>Peer review record ([Web of Science](https://www.webofscience.com/wos/author/record/IZE-8404-2023))</li> 
   <li>Referee, Nature Partner Journal Digital Medicine (IF 15.2 JCR Q1)</li>  
   <li>Referee, Nature Partner Journal Artificial Intelligence (IF TBD JCR TBD)</li>  
   <li>Referee, Nature Partner Journal Health Systems (IF TBD JCR TBD)</li>  
@@ -60,6 +60,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>01/2026: A poster was presented at AAAI TrustAgent, Long Paper Track.</li>
   <li>12/2025: Han completed a review for npj Digit. Med.</li>
+  <li>12/2025: Han completed a review for Artif. Intell. Med.</li>
   <li>11/2025: An oral presentation was given at EMNLP FinNLP, Long Paper Track.</li>
   <li>11/2025: Han completed a review for Genome Med.</li>
   <li>10/2025: A poster was presented at AAO, Abstract Track.</li>
