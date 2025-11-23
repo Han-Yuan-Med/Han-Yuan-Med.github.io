@@ -23,7 +23,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # Professional Societies & Editorial Services
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>Peer review record ([Web of Science](https://www.webofscience.com/wos/author/record/IZE-8404-2023))</li> 
+  <li>Peer review record (https://www.webofscience.com/wos/author/record/IZE-8404-2023)</li> 
   <li>Referee, Nature Partner Journal Digital Medicine (IF 15.2 JCR Q1)</li>  
   <li>Referee, Nature Partner Journal Artificial Intelligence (IF TBD JCR TBD)</li>  
   <li>Referee, Nature Partner Journal Health Systems (IF TBD JCR TBD)</li>  
