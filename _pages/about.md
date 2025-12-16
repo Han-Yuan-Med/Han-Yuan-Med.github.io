@@ -59,6 +59,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>01/2026: A poster was presented at AAAI TrustAgent, Long Paper Track.</li>
+  <li>01/2026: Han completed a review for npj Artif. Intell.</li>
   <li>12/2025: Han completed a review for npj Digit. Med.</li>
   <li>12/2025: Han completed a review for Artif. Intell. Med.</li>
   <li>11/2025: An oral presentation was given at EMNLP FinNLP, Long Paper Track.</li>
