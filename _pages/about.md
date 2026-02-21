@@ -23,7 +23,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # Professional Societies & Editorial Services
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>Record, https://www.webofscience.com/wos/author/record/IZE-8404-2023</li> 
+  <li>Record: https://www.webofscience.com/wos/author/record/IZE-8404-2023</li> 
   <li>Handling Editor, Frontiers in Public Health (IF 3.4 JCR Q1)</li>  
   <li>Referee, Nature Partner Journal Digital Medicine (IF 15.2 JCR Q1)</li>  
   <li>Referee, Nature Partner Journal Artificial Intelligence (IF TBD JCR TBD)</li>  
@@ -62,6 +62,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>03/2026: A poster was presented at EACL, Long Paper Track.</li>
+  <li>02/2026: Han was recognized by BMJ Innov. for peer review contributions.</li>
   <li>02/2026: Han completed an editorial process for Front. Public Health.</li>
   <li>02/2026: Han completed three reviews for npj Digit. Med.</li>
   <li>02/2026: Han completed a review for Arch. Comput. Methods Eng.</li>
