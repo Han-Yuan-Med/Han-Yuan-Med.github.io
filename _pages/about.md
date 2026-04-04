@@ -36,6 +36,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>Referee, Engineering Applications of Artificial Intelligence (IF 8.0 JCR Q1)</li>
   <li>Referee, IEEE Journal of Biomedical and Health Informatics (IF 7.7 JCR Q1)</li>
   <li>Referee, Expert Systems With Applications (IF 7.5 JCR Q1)</li>
+  <li>Referee, Machine Learning (IF 6.6 JCR Q1)</li>
   <li>Referee, BMC Medical Research Methodology (IF 6.5 JCR Q1)</li>
   <li>Referee, Artificial Intelligence in Medicine (IF 6.2 JCR Q1)</li>
   <li>Referee, Journal of Medical Internet Research (IF 5.8 JCR Q1)</li>
