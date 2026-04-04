@@ -62,6 +62,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li>04/2026: Han completed a review for Mach. Learn.</li>
   <li>03/2026: A poster was presented at EACL, Long Paper Track.</li>
   <li>02/2026: Han was recognized by BMJ Innov. for peer review contributions.</li>
   <li>02/2026: Han completed an editorial process for Front. Public Health.</li>
