@@ -63,6 +63,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li>05/2026: Han hit 1,000 Google Scholar citations.</li>
   <li>05/2026: Han completed a review for Nat. Commun.</li>
   <li>05/2026: Han completed a review for npj Digit. Med.</li>
   <li>04/2026: Han obtained a top cited article recognition from Wiley.</li>
