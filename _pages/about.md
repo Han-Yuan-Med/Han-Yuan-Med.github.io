@@ -47,6 +47,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>Referee, Journal of Medical Internet Research (IF 5.8 JCR Q1)</li>
   <li>Referee, International Journal of Human-Computer Interaction (IF 5.5 JCR Q1)</li>
   <li>Referee, Respiratory Research (IF 5.3 JCR Q1)</li>
+  <li>Referee, IEEE/ACM Transactions on Audio, Speech, and Language Processing (IF 5.2 JCR Q1)</li>
   <li>Referee, BioData Mining (IF 4.0 JCR Q1)</li>
   <li>Referee, Scientific Reports (IF 4.3 JCR Q1)</li>
   <li>Referee, PeerJ Computer Science (IF 3.8 JCR Q1)</li>
@@ -67,6 +68,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li>05/2026: Han completed a review for IEEE/ACM Trans. Audio Speech Lang. Process.</li>
   <li>06/2026: A paper was published in npj Digit. Med.</li>
   <li>06/2026: Han obtained a top read article recognition from Wiley.</li>
   <li>05/2026: Han hit 1,000 Google Scholar citations.</li>
