@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am Han. My professional journey spans diverse roles and industries, including an NLP & GenAI Manager at American Express💳, a macro research analyst at Founder Securities📈, and a banking advisor at Bank of China🏦.
 
-I received a Ph.D.🎓 in Health Data Science from Duke-NUS Medical School⚕️, a collaborative institute between Duke University😈 and the National University of Singapore🦁. Throughout my doctoral studies, I focused on multi-modal health data modeling and completed research exchanges at the University of Zurich🏞️ and Duke University😈. Before my doctoral studies, I graduated at the top of my class🥇 with double B.S. degrees in Biotechnology🧬 and Applied Mathematics🧮 from Nankai University, and subsequently worked as a full-time consultant at Harvard University🏫.
+I received a Ph.D.🎓 in Health Data Science from Duke-NUS Medical School⚕️, a collaborative institute between Duke University💙 and the National University of Singapore🦁. Throughout my doctoral studies, I focused on multi-modal health data modeling and completed research exchanges at the University of Zurich🏞️ and Duke University💙. Before my doctoral studies, I graduated at the top of my class🥇 with double B.S. degrees in Biotechnology🧬 and Applied Mathematics🧮 from Nankai University, and subsequently worked as a full-time consultant at Harvard University🏫.
 
 I have published over 20 papers📝 in leading conferences🗫 such as ACL🔠, as well as esteemed journals📰 including Nature Partner Journal Digital Medicine🖼️, IEEE Transactions on Neural Networks and Learning Systems⚛, and Journal of Biomedical Informatics🌐, receiving over 1,100 citations to date🔗.
 
@@ -63,12 +63,14 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>Referee, BMC Cardiovascular Disorders</li>
   <li>Referee, Data Science Journal</li>
   <li>Referee, Health Care Science</li>
+  <li>Referee, Conference on Empirical Methods in Natural Language Processing</li>
   <li>Referee, Machine Learning for Health Symposium</li>
 </ul>
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>07/2026: Han completed a review for IEEE/ACM Trans. Audio Speech Lang. Process.</li>
+  <li>07/2026: Han completed three reviews for Conf. Empir. Methods Nat. Lang. Process.</li>
   <li>06/2026: A paper was published in npj Digit. Med.</li>
   <li>06/2026: Han obtained a top read article recognition from Wiley.</li>
   <li>05/2026: Han hit 1,000 Google Scholar citations.</li>
