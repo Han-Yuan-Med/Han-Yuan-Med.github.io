@@ -28,6 +28,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 # Professional Societies & Editorial Services
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>Record: https://www.webofscience.com/wos/author/record/IZE-8404-2023</li> 
+  <li>Handling Editor, Frontiers in Medicine (IF 3.7 JCR Q1)</li> 
   <li>Handling Editor, Frontiers in Public Health (IF 3.4 JCR Q1)</li>  
   <li>Referee, Nature Communications (IF 17.2 JCR Q1)</li>  
   <li>Referee, Nature Partner Journal Digital Medicine (IF 15.2 JCR Q1)</li>  
@@ -69,6 +70,8 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li>10/2026: A poster was presented at EMNLP GroundLM, Short Paper Track.</li>
+  <li>09/2026: Han completed an editorial process for Front. Med.</li>
   <li>07/2026: Han completed a review for IEEE/ACM Trans. Audio Speech Lang. Process.</li>
   <li>07/2026: Han completed three reviews for Conf. Empir. Methods Nat. Lang. Process.</li>
   <li>06/2026: A paper was published in npj Digit. Med.</li>
