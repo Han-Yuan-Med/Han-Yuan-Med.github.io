@@ -70,7 +70,7 @@ Thank you for visiting my academic website. I invite you to explore the [publica
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li>12/2026: A poster was presented at NeurIPS Attrib., Long Paper Track.</li>
+  <li>12/2026: A poster was presented at NeurIPS Attrib, Long Paper Track.</li>
   <li>10/2026: A poster was presented at EMNLP GroundLM, Short Paper Track.</li>
   <li>09/2026: Han completed an editorial process for Front. Med.</li>
   <li>07/2026: Han completed a review for IEEE/ACM Trans. Audio Speech Lang. Process.</li>
