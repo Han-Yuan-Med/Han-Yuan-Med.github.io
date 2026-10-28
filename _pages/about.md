@@ -64,13 +64,15 @@ Thank you for visiting my academic website. I invite you to explore the [publica
   <li>Referee, BMC Cardiovascular Disorders</li>
   <li>Referee, Data Science Journal</li>
   <li>Referee, Health Care Science</li>
-  <li>Referee, Conference on Empirical Methods in Natural Language Processing</li>
+  <li>Referee, The Conference on Empirical Methods in Natural Language Processing</li>
+  <li>Referee, The Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics</li>
   <li>Referee, Machine Learning for Health Symposium</li>
 </ul>
 
 # News
 <ul style="width: auto; height: 300px; overflow: auto">
   <li>12/2026: A poster was presented at NeurIPS Attrib, Long Paper Track.</li>
+  <li>11/2026: Han completed nine reviews for Annu. Conf. Nations Am. Chapter Assoc. Comput. Linguist.</li>
   <li>10/2026: Han was named among the World's Top 2% Scientists by Stanford & Elsevier.</li>
   <li>10/2026: A poster was presented at EMNLP GroundLM, Short Paper Track.</li>
   <li>09/2026: Han completed an editorial process for Front. Med.</li>
